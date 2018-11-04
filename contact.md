@@ -3,19 +3,19 @@ layout: default
 is_contact: true
 ---
 
-* Email: [haoluocsc@zju.edu.cn](mailto:haoluocsc@zju.edu.cn)
+* Email: [foo@xyz.com](mailto:foo@xyz.com)
 
-* Phone: [+86-15267015875](tel:+86-15267015875)
+* Phone: [+91-123123](tel:+91-123123)
 
 ---
 
 ## Mailing Address
 
-> CSC302, Yuquan Campus, Zhejiang Univerisity
+> 221B, Baker Street
 >
-> No38 Zheda Road, Hangzhou, Zhejiang
+> London
 >
-> China
+> United Kingdom
 
 ---
 
