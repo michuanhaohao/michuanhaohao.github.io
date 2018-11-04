@@ -16,8 +16,8 @@ sass:
 
 nav:
  - name: "Luo Hao"
-   link: "/luohao/"
-# - name: "Resume"
-#   link: "resume.pdf"
+   link: "/"
+ - name: "Talk"
+   link: "talk"
  - name: "Contact"
    link: "contact"

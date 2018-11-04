@@ -21,6 +21,7 @@ is_contact: true
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Google Scholar](https://scholar.google.com.hk/citations?user=7QvWnzMAAAAJ&hl=zh-CN)
+2. [Github](https://github.com/michuanhaohao)
+3. [CSDN Blog](https://blog.csdn.net/qq_21190081)
+4. [Zhihu](https://www.zhihu.com/people/luohao-zju/activities)
