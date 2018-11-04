@@ -1,0 +1,23 @@
+title: Luo Hao
+url: "https//:haoluo.site"
+baseurl: "/luohao"
+
+markdown: kramdown
+
+tracking_id: #
+
+footer: No
+footer_url: "https://github.com/michuanhaohao"
+footer_text: "Copy right @ Ankit Sultana"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "Luo Hao"
+   link: "/luohao/"
+# - name: "Resume"
+#   link: "resume.pdf"
+ - name: "Contact"
+   link: "contact"
