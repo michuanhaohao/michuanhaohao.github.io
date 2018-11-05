@@ -4,7 +4,6 @@
 
 ## About Me
 
-<img class="profile-picture" src="./imgs/photo.jpg">
 
 I am currently a Ph.D. student under the supervision of Prof. [Wei Jiang](https://person.zju.edu.cn/jiangwei) at the Institute of Cyber-Systems and Control, College of Control Science and Engineering, Zhejiang University. 
 I received my bachelor degree from College of Control Science and Engineering, Zhejiang University in 2015. 

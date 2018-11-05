@@ -64,7 +64,7 @@ Partial Person Re-Identification. (Contribute to CVPR2019)
      [[code]](https://github.com/michuanhaohao/AlignedReID)
      [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:XtSMP2EIsNwJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAW9wS6wWQgOfeC-eb7K_WyxYtKWA3R9Fb&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
-4. Fan X, Jiang W, _**Hao Luo**_, et al. SphereReID: Deep Hypersphere Manifold Embedding for Person Re-Identification[J]. arXiv preprint arXiv:1807.00537, 2018. (Under review on Computer Vision and Image Understanding)
+4. Xing Fan, Wei Jiang, _**Hao Luo**_, et al. SphereReID: Deep Hypersphere Manifold Embedding for Person Re-Identification[J]. arXiv preprint arXiv:1807.00537, 2018. (Under review on Computer Vision and Image Understanding)
      
      [[pdf]](https://arxiv.org/pdf/1807.00537)
      [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:GOCYQ5wp9WAJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAW9wiHmtKDiMBLfTeFbU2k5fMQVI2dgEr&scisf=4&ct=citation&cd=-1&hl=zh-CN)
