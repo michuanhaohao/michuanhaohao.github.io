@@ -85,9 +85,9 @@ Partial Person Re-Identification. (Contribute to CVPR2019)
 - **Top100 Excellent Graduation Thesis**, Zhejiang University, 2015
 - **Outstanding Graduates**, Zhejiang Province, China, 2015
 - **Chunhui Award (Blue Ribbon)**,College of CSE, Zhejiang University, 2015
-- **Renai Award,College of CSE**, Zhejiang University, 2014
+- **Renai Award**,College of CSE, Zhejiang University, 2014
 - **Outstanding Student Leaders**, Zhejiang University, 2014,2013
-- **Zhongkong Award,College of CSE**, Zhejiang University, 2013
+- **Zhongkong Award**,College of CSE, Zhejiang University, 2013
 - **Merit Student**,Zhejiang University 2014,2013
 - **Excellent Student Awards**, Zhejiang University, 2014,2013,2012
 - **First Prize in Advanced Mathematics Competition**, Zhejiang Province, China, 2012
