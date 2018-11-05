@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="./imgs/photo.jpg">
 
-I am currently a Ph.D. student at the Institute of Cyber-Systems and Control, College of Control Science and Engineering, Zhejiang University. 
+I am currently a Ph.D. student under the supervision of Prof. [Wei Jiang](https://person.zju.edu.cn/jiangwei) at the Institute of Cyber-Systems and Control, College of Control Science and Engineering, Zhejiang University. 
 I received my bachelor degree from College of Control Science and Engineering, Zhejiang University in 2015. 
 
 I was a research intern of Megvii Inc. in 2017 year, and have been intern at 2012 Lab, Huawei Technologies Co. Ltd. since 2018.6.
@@ -36,7 +36,7 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
 
 
 ### Journal
-1. _**Hao Luo**_, Zhengping Luo, Chao Xu, Wei Jiang. Optical plasma boundary reconstruction based onleast squares for EAST Tokamak[J]. Frontiers of Information Technology & Electronic Engineering, 2018.
+1. _**Hao Luo**_, Zhengping Luo, Chao Xu, Wei Jiang. Optical plasma boundary reconstruction based onleast squares for EAST Tokamak[J]. Frontiers of Information Technology & Electronic Engineering, 2018. DOI:10.1631/FITEE.1700041
 
      [[pdf]](https://link.springer.com/epdf/10.1631/FITEE.1700041?author_access_token=tlJSLoMbjXP3mRmcXS-0s7qs8EejajWv27JGSSdziJsKiCdueyoZkXakQrsMEbo4Oa3Crq_PDM8LQYwymjPSKKTSZVQeUgh_nIc9ADESazeFCgmY9BvUjeyVYkJG_zy7)
 
@@ -75,3 +75,24 @@ Partial Person Re-Identification. (Contribute to CVPR2019)
      [[code]](https://github.com/michuanhaohao/keras_reid)
      [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:qcCyyEwPnwMJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAW9wYK0vc8X3rC5JOoEV2ox2DydaOprHo&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
+## Experience
+
+- **Intern**, _2012 Lab, Huawei Technologies Co. Ltd._, Jun 2018 ~ Nowadays
+- **Research Intern**, _Face++ (Megvii)_, Apr 2017 ~ Oct 2017
+
+## Awards and Honors
+
+- **Top100 Excellent Graduation Thesis**, Zhejiang University, 2015
+- **Outstanding Graduates**, Zhejiang Province, China, 2015
+- **Chunhui Award (Blue Ribbon)**,College of CSE, Zhejiang University, 2015
+- **Renai Award,College of CSE**, Zhejiang University, 2014
+- **Outstanding Student Leaders**, Zhejiang University, 2014,2013
+- **Zhongkong Award,College of CSE**, Zhejiang University, 2013
+- **Merit Student**,Zhejiang University 2014,2013
+- **Excellent Student Awards**, Zhejiang University, 2014,2013,2012
+- **First Prize in Advanced Mathematics Competition**, Zhejiang Province, China, 2012
+
+## Leadership Activities
+
+- **Founder & President**, _Student AI Association of Zhejiang University_, Dec 2017 ~ Nowadays
+- **President**, _Student union of College of CSE, Zhejiang University_, July 2013 ~ Jun 2014
