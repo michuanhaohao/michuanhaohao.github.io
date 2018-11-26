@@ -51,7 +51,9 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
 
 ### Manuscript
 1. _**Hao Luo**_, Xing Fan, Chi Zhang, Wei Jiang. STNReID: Deep Convolutional Networks with Spatial Transformer Networks for
-Partial Person Re-Identification. (Contribute to CVPR2019) 
+Partial Person Re-Identification. (Under review)
+
+1. Xing Fan, _**Hao Luo**_, Yaadhav Raaj, Haroon Idrees, Chi Zhang, Wei Jiang, Yaser Sheikh.Instance Hard Triplet Loss for both Cross-camera and In-video Person Re-identification. (Under review)
 
 2. **_Hao Luo_**, Wei Jiang, Xuan Zhang, et al. AlignedReID++: Dynamically Matching Local Information for Person Re-Identification. (Under review on Pattern Recognition)
 
