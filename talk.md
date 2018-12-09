@@ -8,6 +8,7 @@ is_contact: true
 
 Date | Location | Title/Topic | Slides 
 -----|-------|--------|--------
+09 Dec, 2018 | Huawei, Shanghai  | Stripe-based Person Re-identification| [slides](https://drive.google.com/open?id=1W2wizjcuu_DmUJ0JrF9WdHzZ6wzot2T7)
 26 Sep, 2018 | Huawei, Hangzhou  | Person Re-identification in ECCV2018| [slides](https://drive.google.com/open?id=1YgrjZ3CMZO0Y6dsQTfkaaJUS6ToK56gV)
 05 Aug, 2018 | Megvii, Beijing | AlignedReID++| [slides](https://drive.google.com/open?id=14Mjnuh29HuYhd2_4LDkod60683obQC6u)
 18 May, 2018 | ZJU, Hangzhou | Person Re-identification in CVPR2018| [slides](https://drive.google.com/open?id=19tccj8-2B0NkSst9z6FtpNmF6P6aYqXb)
