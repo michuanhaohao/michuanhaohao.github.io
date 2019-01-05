@@ -24,11 +24,12 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
 
 ## News
 
-- One paper to appear at ACCV2018.[[pdf]](https://arxiv.org/pdf/1810.06996)
+- SphereReID to appear at Computer Vision and Image Understanding.[[pdf]](https://arxiv.org/pdf/1807.00537)
+- SCPNet to appear at ACCV2018.[[pdf]](https://arxiv.org/pdf/1810.06996)
 - We have released the code of AlignedReID.[[pdf]](https://arxiv.org/pdf/1711.08184)
      [[code]](https://github.com/michuanhaohao/AlignedReID)
-- My paid online course "Deep Learning and Person Re-identification" is online.[[Chapter 1]](http://www.ai300college.com/course/56)
-     [[Chapter 2]](http://www.ai300college.com/course/55)
+- My paid online course "Deep Learning and Person Re-identification" is online.[[Chapter 1]](https://study.163.com/course/introduction/1006510030.htm)
+     [[Chapter 2]](https://study.163.com/course/introduction/1006510030.htm)
 - We have released the code of MSML.[[pdf]](https://arxiv.org/pdf/1710.00478)
      [[code]](https://github.com/michuanhaohao/keras_reid)
 
@@ -43,6 +44,11 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
 2. **_Hao Luo_**, Wei Jiang, Xing Fan, Sipeng Zhang. A Survey on Deep Learning Based Person Re-Identification[J]. ACTA AUTOMATICA SINICA, 2018. DOI: 10.16383/j.aas.2018.c180154
    
    (罗浩,姜伟,范星,张思朋. 基于深度学习的行人重识别研究进展. 自动化学报, 2018. DOI: 10.16383/j.aas.2018.c180154)
+   
+3. Xing Fan, Wei Jiang, _**Hao Luo**_, et al. SphereReID: Deep Hypersphere Manifold Embedding for Person Re-Identification[J]. arXiv preprint arXiv:1807.00537, 2018. (Appeared to Computer Vision and Image Understanding)
+     
+     [[pdf]](https://arxiv.org/pdf/1807.00537)
+     [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:GOCYQ5wp9WAJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAW9wiHmtKDiMBLfTeFbU2k5fMQVI2dgEr&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
 ### Conference
 1. Xing Fan, **_Hao Luo_**, Xuan Zhang, et al. SCPNet: Spatial-Channel Parallelism Network for Joint Holistic and Partial Person Re-Identification[C]//Asian Conference on Computer Vision. Springer, Cham, 2018.
@@ -53,25 +59,22 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
 1. _**Hao Luo**_, Xing Fan, Chi Zhang, Wei Jiang. STNReID: Deep Convolutional Networks with Spatial Transformer Networks for
 Partial Person Re-Identification. (Under review)
 
-1. Xing Fan, _**Hao Luo**_, Yaadhav Raaj, Haroon Idrees, Chi Zhang, Wei Jiang, Yaser Sheikh.Instance Hard Triplet Loss for both Cross-camera and In-video Person Re-identification. (Under review)
+2. Xing Fan, _**Hao Luo**_, Yaadhav Raaj, Haroon Idrees, Chi Zhang, Wei Jiang, Yaser Sheikh.Instance Hard Triplet Loss for both Cross-camera and In-video Person Re-identification. (Under review)
 
-2. **_Hao Luo_**, Wei Jiang, Xuan Zhang, et al. AlignedReID++: Dynamically Matching Local Information for Person Re-Identification. (Under review on Pattern Recognition)
+3. **_Hao Luo_**, Wei Jiang, Xuan Zhang, et al. AlignedReID++: Dynamically Matching Local Information for Person Re-Identification. (Revision on Pattern Recognition)
 
      [[code]](https://github.com/michuanhaohao/AlignedReID)
 
-3. Xuan Zhang* , **_Hao Luo*_**, Xing Fan, et al. Alignedreid: Surpassing human-level performance in person re-identification[J]. arXiv preprint arXiv:1711.08184, 2017. 
+4. Xuan Zhang* , **_Hao Luo*_**, Xing Fan, et al. Alignedreid: Surpassing human-level performance in person re-identification[J]. arXiv preprint arXiv:1711.08184, 2017. 
     **(* stands for equal first authors)** 
      
      [[pdf]](https://arxiv.org/pdf/1711.08184)
      [[code]](https://github.com/michuanhaohao/AlignedReID)
      [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:XtSMP2EIsNwJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAW9wS6wWQgOfeC-eb7K_WyxYtKWA3R9Fb&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
-4. Xing Fan, Wei Jiang, _**Hao Luo**_, et al. SphereReID: Deep Hypersphere Manifold Embedding for Person Re-Identification[J]. arXiv preprint arXiv:1807.00537, 2018. (Under review on Computer Vision and Image Understanding)
-     
-     [[pdf]](https://arxiv.org/pdf/1807.00537)
-     [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:GOCYQ5wp9WAJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAW9wiHmtKDiMBLfTeFbU2k5fMQVI2dgEr&scisf=4&ct=citation&cd=-1&hl=zh-CN)
+5. Zaiqiang Wu, Wei Jiang,  _**Hao Luo**_, Lin Cheng. A Novel Self-intersection Penalty Term for Statistical Body Shape Models and Its Applications in 3D Pose Estimation. (Under review on Applied Science)
 
-5. Qiqi Xiao, _**Hao Luo**_, Chi Zhang. Margin Sample Mining Loss: A Deep Learning Based Method for Person Re-identification[J]. arXiv preprint arXiv:1710.00478, 2017.
+6. Qiqi Xiao, _**Hao Luo**_, Chi Zhang. Margin Sample Mining Loss: A Deep Learning Based Method for Person Re-identification[J]. arXiv preprint arXiv:1710.00478, 2017.
 
      [[pdf]](https://arxiv.org/pdf/1710.00478)
      [[code]](https://github.com/michuanhaohao/keras_reid)
