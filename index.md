@@ -45,10 +45,10 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
    
    (罗浩,姜伟,范星,张思朋. 基于深度学习的行人重识别研究进展. 自动化学报, 2018. DOI: 10.16383/j.aas.2018.c180154)
    
-3. Xing Fan, Wei Jiang, _**Hao Luo**_, et al. SphereReID: Deep Hypersphere Manifold Embedding for Person Re-Identification[J]. arXiv preprint arXiv:1807.00537, 2018. (Appeared to Computer Vision and Image Understanding)
+3. Xing Fan, Wei Jiang, _**Hao Luo**_, et al. SphereReID: Deep Hypersphere Manifold Embedding for Person Re-Identification. Journal of Visual Communication and Image Representation (2019). (Appeared to Computer Vision and Image Understanding)
      
-     [[pdf]](https://arxiv.org/pdf/1807.00537)
-     [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:GOCYQ5wp9WAJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAW9wiHmtKDiMBLfTeFbU2k5fMQVI2dgEr&scisf=4&ct=citation&cd=-1&hl=zh-CN)
+     [[pdf]](https://www.sciencedirect.com/science/article/pii/S1047320319300100)
+     [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:ewJ21m_l3V4J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXEBOQ8JRAajWxcV_0pMCEt1wCgLBSlvP&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
 
 ### Conference
 1. Xing Fan, **_Hao Luo_**, Xuan Zhang, et al. SCPNet: Spatial-Channel Parallelism Network for Joint Holistic and Partial Person Re-Identification[C]//Asian Conference on Computer Vision. Springer, Cham, 2018.
