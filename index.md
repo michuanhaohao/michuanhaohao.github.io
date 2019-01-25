@@ -50,6 +50,12 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
      [[pdf]](https://arxiv.org/pdf/1807.00537)
      [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:GOCYQ5wp9WAJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAW9wiHmtKDiMBLfTeFbU2k5fMQVI2dgEr&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
+4. Zaiqiang Wu, Wei Jiang,  _**Hao Luo**_, Lin Cheng. A Novel Self-intersection Penalty Term for Statistical Body Shape Models and Its Applications in 3D Pose Estimation. (Applied Science, 2019. DOI:10.3390/app9030400}
+    [[pdf]](https://www.mdpi.com/2076-3417/9/3/400/pdf)
+
+
+)
+
 ### Conference
 1. Xing Fan, **_Hao Luo_**, Xuan Zhang, et al. SCPNet: Spatial-Channel Parallelism Network for Joint Holistic and Partial Person Re-Identification[C]//Asian Conference on Computer Vision. Springer, Cham, 2018.
 
@@ -72,9 +78,7 @@ Partial Person Re-Identification. (Under review)
      [[code]](https://github.com/michuanhaohao/AlignedReID)
      [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:XtSMP2EIsNwJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAW9wS6wWQgOfeC-eb7K_WyxYtKWA3R9Fb&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
-5. Zaiqiang Wu, Wei Jiang,  _**Hao Luo**_, Lin Cheng. A Novel Self-intersection Penalty Term for Statistical Body Shape Models and Its Applications in 3D Pose Estimation. (Under review on Applied Science)
-
-6. Qiqi Xiao, _**Hao Luo**_, Chi Zhang. Margin Sample Mining Loss: A Deep Learning Based Method for Person Re-identification[J]. arXiv preprint arXiv:1710.00478, 2017.
+5. Qiqi Xiao, _**Hao Luo**_, Chi Zhang. Margin Sample Mining Loss: A Deep Learning Based Method for Person Re-identification[J]. arXiv preprint arXiv:1710.00478, 2017.
 
      [[pdf]](https://arxiv.org/pdf/1710.00478)
      [[code]](https://github.com/michuanhaohao/keras_reid)
