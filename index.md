@@ -40,21 +40,19 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
 1. _**Hao Luo**_, Zhengping Luo, Chao Xu, Wei Jiang. Optical plasma boundary reconstruction based onleast squares for EAST Tokamak[J]. Frontiers of Information Technology & Electronic Engineering, 2018. DOI:10.1631/FITEE.1700041
 
      [[pdf]](https://link.springer.com/epdf/10.1631/FITEE.1700041?author_access_token=tlJSLoMbjXP3mRmcXS-0s7qs8EejajWv27JGSSdziJsKiCdueyoZkXakQrsMEbo4Oa3Crq_PDM8LQYwymjPSKKTSZVQeUgh_nIc9ADESazeFCgmY9BvUjeyVYkJG_zy7)
-
+     [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:I6aH4PLqpYkJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXEq393n84npYEyG4FrgGcA6imHWHPB7B&scisf=4&ct=citation&cd=-1&hl=en)
 2. **_Hao Luo_**, Wei Jiang, Xing Fan, Sipeng Zhang. A Survey on Deep Learning Based Person Re-Identification[J]. ACTA AUTOMATICA SINICA, 2018. DOI: 10.16383/j.aas.2018.c180154
    
    (罗浩,姜伟,范星,张思朋. 基于深度学习的行人重识别研究进展. 自动化学报, 2018. DOI: 10.16383/j.aas.2018.c180154)
+   [[pdf]](http://www.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=cjfdtotal&filename=MOTO20190121007&uid=WEEvREcwSlJHSldRa1FhcEE0QVRCZ2VvUjJsTFh6b1NpN21hVHEzNFhOcz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MzAwODBLQ0xmWWJHNEg5ak1ybzFFWk9zSVkzZ3h5aFlTNkVsMVFIdmpyaFkxQ01EN1I3cWVidVp1RkN6bFY3N0JJMWc9)
    
 3. Xing Fan, Wei Jiang, _**Hao Luo**_, et al. SphereReID: Deep Hypersphere Manifold Embedding for Person Re-Identification. Journal of Visual Communication and Image Representation (2019). (Appeared to Computer Vision and Image Understanding)
      
      [[pdf]](https://www.sciencedirect.com/science/article/pii/S1047320319300100)
      [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:ewJ21m_l3V4J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXEBOQ8JRAajWxcV_0pMCEt1wCgLBSlvP&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
 
-4. Zaiqiang Wu, Wei Jiang,  _**Hao Luo**_, Lin Cheng. A Novel Self-intersection Penalty Term for Statistical Body Shape Models and Its Applications in 3D Pose Estimation. (Applied Science, 2019. DOI:10.3390/app9030400}
+4. Zaiqiang Wu, Wei Jiang,  _**Hao Luo**_, Lin Cheng. A Novel Self-intersection Penalty Term for Statistical Body Shape Models and Its Applications in 3D Pose Estimation. (Applied Science, 2019. DOI:10.3390/app9030400)
     [[pdf]](https://www.mdpi.com/2076-3417/9/3/400/pdf)
-
-
-)
 
 ### Conference
 1. Xing Fan, **_Hao Luo_**, Xuan Zhang, et al. SCPNet: Spatial-Channel Parallelism Network for Joint Holistic and Partial Person Re-Identification[C]//Asian Conference on Computer Vision. Springer, Cham, 2018.
