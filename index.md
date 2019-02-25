@@ -24,8 +24,10 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
 
 ## News
 
+- I will be an reviewrer for ICCV2019!
 - SphereReID to appear at Computer Vision and Image Understanding.[[pdf]](https://arxiv.org/pdf/1807.00537)
 - SCPNet to appear at ACCV2018.[[pdf]](https://arxiv.org/pdf/1810.06996)
+     [[code]](https://github.com/xfanplus/Open-SCPNet)
 - We have released the code of AlignedReID.[[pdf]](https://arxiv.org/pdf/1711.08184)
      [[code]](https://github.com/michuanhaohao/AlignedReID)
 - My paid online course "Deep Learning and Person Re-identification" is online.[[Chapter 1]](https://study.163.com/course/introduction/1006510030.htm)
