@@ -24,7 +24,7 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
 
 ## News
 
-- I will be an reviewrer for ICCV2019!
+- I will be an invited reviewrer for ICCV2019!
 - SphereReID to appear at Computer Vision and Image Understanding.[[pdf]](https://arxiv.org/pdf/1807.00537)
 - SCPNet to appear at ACCV2018.[[pdf]](https://arxiv.org/pdf/1810.06996)
      [[code]](https://github.com/xfanplus/Open-SCPNet)
