@@ -1,4 +1,4 @@
-title: Luo Hao
+title: Luo Hao's Homepage
 url: "https//:haoluo.site"
 # baseurl: "/luohao"
 
@@ -15,7 +15,7 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "Luo Hao"
+ - name: "Homepage"
    link: "/"
  - name: "Talk"
    link: "talk"
