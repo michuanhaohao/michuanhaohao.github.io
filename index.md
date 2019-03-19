@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About Me
+## Hao Luo's Homepage
 
 <img class="profile-picture" src="./imgs/photo.jpg">
 

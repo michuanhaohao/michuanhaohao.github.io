@@ -17,8 +17,8 @@
         <entry file="file://$PROJECT_DIR$/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="312">
-                <caret line="61" column="46" lean-forward="true" selection-start-line="61" selection-start-column="46" selection-end-line="61" selection-end-column="46" />
+              <first_editor relative-caret-position="72">
+                <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -28,12 +28,18 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>About</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/_site/index.html" />
         <option value="$PROJECT_DIR$/index.md" />
       </list>
     </option>
@@ -71,6 +77,11 @@
             <path>
               <item name="michuanhaohao.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="michuanhaohao.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="michuanhaohao.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michuanhaohao.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_site" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -161,11 +172,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="69" column="29" lean-forward="false" selection-start-line="69" selection-start-column="24" selection-end-line="69" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="312">
-            <caret line="61" column="46" lean-forward="true" selection-start-line="61" selection-start-column="46" selection-end-line="61" selection-end-column="46" />
+          <first_editor relative-caret-position="72">
+            <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
