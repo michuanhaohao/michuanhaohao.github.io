@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Hao Luo's Homepage
+## About Me
 
 <img class="profile-picture" src="./imgs/photo.jpg">
 
@@ -55,11 +55,13 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
 
 4. Zaiqiang Wu, Wei Jiang,  _**Hao Luo**_, Lin Cheng. A Novel Self-intersection Penalty Term for Statistical Body Shape Models and Its Applications in 3D Pose Estimation. (Applied Science, 2019. DOI:10.3390/app9030400)
     [[pdf]](https://www.mdpi.com/2076-3417/9/3/400/pdf)
+    [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:x-txlqHp-RcJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXJBx6qcmwMcTUTMAhF7aZrTFmY6PuHeR&scisf=4&ct=citation&cd=-1&hl=en)
 
 ### Conference
 1. Xing Fan, **_Hao Luo_**, Xuan Zhang, et al. SCPNet: Spatial-Channel Parallelism Network for Joint Holistic and Partial Person Re-Identification[C]//Asian Conference on Computer Vision. Springer, Cham, 2018.
 
      [[pdf]](https://arxiv.org/pdf/1810.06996)
+     [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:AuhTpjNoWJAJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXJByNPbn0SWovIImmXSkRcs_CJZZ-Oem&scisf=4&ct=citation&cd=-1&hl=en)
 
 ### Manuscript
 1. _**Hao Luo**_, Youzhi Gu, Xingyu Liao, Shenqi Lai, Wei Jiang. Bags of Tricks and A Strong Baseline for Deep Person Re-identification. (Under review)
