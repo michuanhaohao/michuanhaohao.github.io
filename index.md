@@ -62,23 +62,31 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
      [[pdf]](https://arxiv.org/pdf/1810.06996)
 
 ### Manuscript
-1. _**Hao Luo**_, Xing Fan, Chi Zhang, Wei Jiang. STNReID: Deep Convolutional Networks with Spatial Transformer Networks for
+1. _**Hao Luo**_, Youzhi Gu, Xingyu Liao, Shenqi Lai, Wei Jiang. Bags of Tricks and A Strong Baseline for Deep Person Re-identification. (Under review)
+
+    [[pdf]](https://arxiv.org/abs/1903.07071)
+    [[code]](https://github.com/michuanhaohao/reid-strong-baseline)
+    
+2. _**Hao Luo**_, Xing Fan, Chi Zhang, Wei Jiang. STNReID: Deep Convolutional Networks with Spatial Transformer Networks for
 Partial Person Re-Identification. (Under review)
 
-2. Xing Fan, _**Hao Luo**_, Yaadhav Raaj, Haroon Idrees, Chi Zhang, Wei Jiang, Yaser Sheikh.Instance Hard Triplet Loss for both Cross-camera and In-video Person Re-identification. (Under review)
+     [[pdf]](https://arxiv.org/abs/1903.07072)
+3. Xing Fan, _**Hao Luo**_, Yaadhav Raaj, Haroon Idrees, Chi Zhang, Wei Jiang, Yaser Sheikh. Instance Hard Triplet Loss for both Cross-camera and In-video Person Re-identification. (Under review)
 
-3. **_Hao Luo_**, Wei Jiang, Xuan Zhang, et al. AlignedReID++: Dynamically Matching Local Information for Person Re-Identification. (Revision on Pattern Recognition)
+3. Xing Fan, _**Hao Luo**_, Chi Zhang, Wei Jiang, Yaser Sheikh. Beyond Part-based Convolution: Multi-scale Pooling and Random Stripe-shuffling for Person Re-identification. (Under review)
+
+4. **_Hao Luo_**, Wei Jiang, Xuan Zhang, et al. AlignedReID++: Dynamically Matching Local Information for Person Re-Identification. (Revision on Pattern Recognition)
 
      [[code]](https://github.com/michuanhaohao/AlignedReID)
 
-4. Xuan Zhang* , **_Hao Luo*_**, Xing Fan, et al. Alignedreid: Surpassing human-level performance in person re-identification[J]. arXiv preprint arXiv:1711.08184, 2017. 
+5. Xuan Zhang* , **_Hao Luo*_**, Xing Fan, et al. Alignedreid: Surpassing human-level performance in person re-identification[J]. arXiv preprint arXiv:1711.08184, 2017. 
     **(* stands for equal first authors)** 
      
      [[pdf]](https://arxiv.org/pdf/1711.08184)
      [[code]](https://github.com/michuanhaohao/AlignedReID)
      [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:XtSMP2EIsNwJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAW9wS6wWQgOfeC-eb7K_WyxYtKWA3R9Fb&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
-5. Qiqi Xiao, _**Hao Luo**_, Chi Zhang. Margin Sample Mining Loss: A Deep Learning Based Method for Person Re-identification[J]. arXiv preprint arXiv:1710.00478, 2017.
+6. Qiqi Xiao, _**Hao Luo**_, Chi Zhang. Margin Sample Mining Loss: A Deep Learning Based Method for Person Re-identification[J]. arXiv preprint arXiv:1710.00478, 2017.
 
      [[pdf]](https://arxiv.org/pdf/1710.00478)
      [[code]](https://github.com/michuanhaohao/keras_reid)
