@@ -48,7 +48,7 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
    (罗浩,姜伟,范星,张思朋. 基于深度学习的行人重识别研究进展. 自动化学报, 2018. DOI: 10.16383/j.aas.2018.c180154)
    [[pdf]](http://www.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=cjfdtotal&filename=MOTO20190121007&uid=WEEvREcwSlJHSldRa1FhcEE0QVRCZ2VvUjJsTFh6b1NpN21hVHEzNFhOcz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MzAwODBLQ0xmWWJHNEg5ak1ybzFFWk9zSVkzZ3h5aFlTNkVsMVFIdmpyaFkxQ01EN1I3cWVidVp1RkN6bFY3N0JJMWc9)
    
-3. Xing Fan, Wei Jiang, _**Hao Luo**_, et al. SphereReID: Deep Hypersphere Manifold Embedding for Person Re-Identification. Journal of Visual Communication and Image Representation (2019). (Appeared to Computer Vision and Image Understanding)
+3. Xing Fan, Wei Jiang, _**Hao Luo**_, et al. SphereReID: Deep Hypersphere Manifold Embedding for Person Re-Identification. Journal of Visual Communication and Image Representation (2019).
      
      [[pdf]](https://www.sciencedirect.com/science/article/pii/S1047320319300100)
      [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:ewJ21m_l3V4J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXEBOQ8JRAajWxcV_0pMCEt1wCgLBSlvP&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
@@ -64,7 +64,7 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
      [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:AuhTpjNoWJAJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXJByNPbn0SWovIImmXSkRcs_CJZZ-Oem&scisf=4&ct=citation&cd=-1&hl=en)
 
 ### Manuscript
-1. _**Hao Luo**_, Youzhi Gu, Xingyu Liao, Shenqi Lai, Wei Jiang. Bags of Tricks and A Strong Baseline for Deep Person Re-identification. (Under review)
+1. _**Hao Luo**_, Youzhi Gu, Xingyu Liao, Shenqi Lai, Wei Jiang. Bag of Tricks and A Strong Baseline for Deep Person Re-identification. (Under review)
 
     [[pdf]](https://arxiv.org/abs/1903.07071)
     [[code]](https://github.com/michuanhaohao/reid-strong-baseline)
@@ -80,6 +80,8 @@ Partial Person Re-Identification. (Under review)
 4. **_Hao Luo_**, Wei Jiang, Xuan Zhang, et al. AlignedReID++: Dynamically Matching Local Information for Person Re-Identification. (Revision on Pattern Recognition)
 
      [[code]](https://github.com/michuanhaohao/AlignedReID)
+     
+4. Sipeng Zhang, Wei Jiang, Chi Zhang, **_Hao Luo_**, Hongyan Yu. An adversarial triplet loss constrained Generative Adversarial Network for person re-identification. (Under review on Computer Vision and Image Understanding)
 
 5. Xuan Zhang* , **_Hao Luo*_**, Xing Fan, et al. Alignedreid: Surpassing human-level performance in person re-identification[J]. arXiv preprint arXiv:1711.08184, 2017. 
     **(* stands for equal first authors)** 
