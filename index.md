@@ -58,22 +58,23 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
     [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:x-txlqHp-RcJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXJBx6qcmwMcTUTMAhF7aZrTFmY6PuHeR&scisf=4&ct=citation&cd=-1&hl=en)
 
 ### Conference
-1. Xing Fan, **_Hao Luo_**, Xuan Zhang, et al. SCPNet: Spatial-Channel Parallelism Network for Joint Holistic and Partial Person Re-Identification[C]//Asian Conference on Computer Vision. Springer, Cham, 2018.
+1. _**Hao Luo**_, Youzhi Gu, Xingyu Liao, Shenqi Lai, Wei Jiang. Bag of Tricks and A Strong Baseline for Deep Person Re-identification. (CVPR2019 Workshop)
+
+    [[pdf]](https://arxiv.org/abs/1903.07071)
+    [[code]](https://github.com/michuanhaohao/reid-strong-baseline)
+    
+2. Xing Fan, **_Hao Luo_**, Xuan Zhang, et al. SCPNet: Spatial-Channel Parallelism Network for Joint Holistic and Partial Person Re-Identification[C]//Asian Conference on Computer Vision. Springer, Cham, 2018.
 
      [[pdf]](https://arxiv.org/pdf/1810.06996)
      [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:AuhTpjNoWJAJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXJByNPbn0SWovIImmXSkRcs_CJZZ-Oem&scisf=4&ct=citation&cd=-1&hl=en)
 
 ### Manuscript
-1. _**Hao Luo**_, Youzhi Gu, Xingyu Liao, Shenqi Lai, Wei Jiang. Bag of Tricks and A Strong Baseline for Deep Person Re-identification. (Under review)
-
-    [[pdf]](https://arxiv.org/abs/1903.07071)
-    [[code]](https://github.com/michuanhaohao/reid-strong-baseline)
     
-2. _**Hao Luo**_, Xing Fan, Chi Zhang, Wei Jiang. STNReID: Deep Convolutional Networks with Spatial Transformer Networks for
+1. _**Hao Luo**_, Xing Fan, Chi Zhang, Wei Jiang. STNReID: Deep Convolutional Networks with Spatial Transformer Networks for
 Partial Person Re-Identification. (Under review)
 
      [[pdf]](https://arxiv.org/abs/1903.07072)
-3. Xing Fan, _**Hao Luo**_, Yaadhav Raaj, Haroon Idrees, Chi Zhang, Wei Jiang, Yaser Sheikh. Instance Hard Triplet Loss for both Cross-camera and In-video Person Re-identification. (Under review)
+2. Xing Fan, _**Hao Luo**_, Yaadhav Raaj, Haroon Idrees, Chi Zhang, Wei Jiang, Yaser Sheikh. Instance Hard Triplet Loss for both Cross-camera and In-video Person Re-identification. (Under review)
 
 3. Xing Fan, _**Hao Luo**_, Chi Zhang, Wei Jiang, Yaser Sheikh. Beyond Part-based Convolution: Multi-scale Pooling and Random Stripe-shuffling for Person Re-identification. (Under review)
 
