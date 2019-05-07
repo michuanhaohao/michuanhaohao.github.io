@@ -24,7 +24,9 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
 
 ## News
 
-- I will be an invited reviewer for ICCV2019!
+- I will make an oral presentation to the TRMTMCT2019 Workshop of CVPR2019.[[pdf]](https://arxiv.org/abs/1903.07071)
+    [[code]](https://github.com/michuanhaohao/reid-strong-baseline)
+- I was invited to be a reviewer for ICCV2019!
 - SphereReID to appear at Computer Vision and Image Understanding.[[pdf]](https://arxiv.org/pdf/1807.00537)
 - SCPNet to appear at ACCV2018.[[pdf]](https://arxiv.org/pdf/1810.06996)
      [[code]](https://github.com/xfanplus/Open-SCPNet)
@@ -58,7 +60,7 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
     [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:x-txlqHp-RcJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXJBx6qcmwMcTUTMAhF7aZrTFmY6PuHeR&scisf=4&ct=citation&cd=-1&hl=en)
 
 ### Conference
-1. _**Hao Luo**_, Youzhi Gu, Xingyu Liao, Shenqi Lai, Wei Jiang. Bag of Tricks and A Strong Baseline for Deep Person Re-identification. (CVPR2019 Workshop)
+1. _**Hao Luo**_, Youzhi Gu, Xingyu Liao, Shenqi Lai, Wei Jiang. Bag of Tricks and A Strong Baseline for Deep Person Re-identification. (CVPR2019 Workshop, Oral)
 
     [[pdf]](https://arxiv.org/abs/1903.07071)
     [[code]](https://github.com/michuanhaohao/reid-strong-baseline)
