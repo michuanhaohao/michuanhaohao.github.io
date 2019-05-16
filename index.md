@@ -23,7 +23,9 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
 - Computer Vision
 
 ## News
-- AlignedReID++ has been accepted by Pattern Recognition.  [[code]](https://github.com/michuanhaohao/AlignedReID)
+- AlignedReID++ has been accepted by Pattern Recognition.  
+    [[pdf]](https://www.sciencedirect.com/science/article/pii/S0031320319302031?via%3Dihub#!)
+    [[code]](https://github.com/michuanhaohao/AlignedReID)
 - I will make an oral presentation to the TRMTMCT2019 Workshop of CVPR2019.[[pdf]](https://arxiv.org/abs/1903.07071)
     [[code]](https://github.com/michuanhaohao/reid-strong-baseline)
 - I was invited to be a reviewer for ICCV2019!
@@ -42,8 +44,10 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
 
 ### Journal
 1. **_Hao Luo_**, Wei Jiang, Xuan Zhang, et al. AlignedReID++: Dynamically Matching Local Information for Person Re-Identification. (Pattern Recognition)
-
+     
+     [[pdf]](https://www.sciencedirect.com/science/article/pii/S0031320319302031?via%3Dihub#!)
      [[code]](https://github.com/michuanhaohao/AlignedReID)
+     [[Bibtex]](https://www.sciencedirect.com/sdfe/arp/cite?pii=S0031320319302031&format=text%2Fx-bibtex&withabstract=true)
 
 2. _**Hao Luo**_, Zhengping Luo, Chao Xu, Wei Jiang. Optical plasma boundary reconstruction based onleast squares for EAST Tokamak[J]. Frontiers of Information Technology & Electronic Engineering, 2018. DOI:10.1631/FITEE.1700041
 
