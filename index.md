@@ -91,6 +91,8 @@ Partial Person Re-Identification. (Under review)
      
 4. Sipeng Zhang, Wei Jiang, Chi Zhang, **_Hao Luo_**, Hongyan Yu. An adversarial triplet loss constrained Generative Adversarial Network for person re-identification. (Under review on Computer Vision and Image Understanding)
 
+5  Zhenfeng Xue, Weijie Mao, Wei Jiang, **_Hao Luo_**. EHANet: Efficient Hybrid Attention Network towards real-time semantic segmentation. (Under review)
+
 5. Xuan Zhang* , **_Hao Luo*_**, Xing Fan, et al. Alignedreid: Surpassing human-level performance in person re-identification[J]. arXiv preprint arXiv:1711.08184, 2017. 
     **(* stands for equal first authors)** 
      
