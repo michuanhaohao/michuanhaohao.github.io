@@ -75,15 +75,19 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
     <details>
       <summary>[BibTeX]</summary>
       <p> 
-        ```
         @InProceedings{Luo_2019_CVPR_Workshops,
-        author = {Luo, Hao and Gu, Youzhi and Liao, Xingyu and Lai, Shenqi and Jiang, Wei},
-        title = {Bag of Tricks and a Strong Baseline for Deep Person Re-Identification},
-        booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
-        month = {June},
-        year = {2019}
+        
+            author = {Luo, Hao and Gu, Youzhi and Liao, Xingyu and Lai, Shenqi and Jiang, Wei},
+            
+            title = {Bag of Tricks and a Strong Baseline for Deep Person Re-Identification},
+            
+            booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+            
+            month = {June},
+            
+            year = {2019}
+            
         }
-        ```
       </p>
     </details>
     
