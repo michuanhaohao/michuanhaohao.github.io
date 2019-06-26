@@ -72,6 +72,11 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
 
     [[pdf]](https://arxiv.org/abs/1903.07071)
     [[code]](https://github.com/michuanhaohao/reid-strong-baseline)
+    <details>
+      <summary>点击时的区域标题：点击查看详细内容</summary>
+      <p> - 测试 测试测试</p>
+      <pre><code>  title，value，callBack可以缺省  </code>  </pre>
+    </details>
     
 2. Xing Fan, **_Hao Luo_**, Xuan Zhang, et al. SCPNet: Spatial-Channel Parallelism Network for Joint Holistic and Partial Person Re-Identification[C]//Asian Conference on Computer Vision. Springer, Cham, 2018.
 
@@ -79,6 +84,13 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
      [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:AuhTpjNoWJAJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXJByNPbn0SWovIImmXSkRcs_CJZZ-Oem&scisf=4&ct=citation&cd=-1&hl=en)
 
 ### Manuscript
+(* stands for equal first authors)
+
+1. _**Hao Luo**_, Wei Jiang, Youzhi Gu, Fuxu Liu, Xingyu Liao, Shenqi Lai, and Jianyang Gu. A Strong Baseline and Batch Normalization Neck for Deep Person Re-identification.
+    
+     [[pdf]](https://arxiv.org/pdf/1906.08332)
+     [[code]](https://github.com/michuanhaohao/reid-strong-baseline)
+     [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:B-LDmJ6HTu0J:scholar.google.com/&output=citation&scisdr=ChGhf2Co4AACVcsbg80AHVB5RpERwrDntmU:AAGBfm0AAAAAXRMxfjWI_Z7eVgjHWlfirmXHUEPo7bOw&scisig=AAGBfm0AAAAAXRMxfvP2DOZfDMOmFuoePaLP_ua3tPy7&scisf=4&ct=citation&cd=-1&hl=en)
     
 1. _**Hao Luo**_, Xing Fan, Chi Zhang, Wei Jiang. STNReID: Deep Convolutional Networks with Spatial Transformer Networks for
 Partial Person Re-Identification. (Under review)
@@ -89,12 +101,11 @@ Partial Person Re-Identification. (Under review)
 3. Xing Fan, _**Hao Luo**_, Chi Zhang, Wei Jiang, Yaser Sheikh. Beyond Part-based Convolution: Multi-scale Pooling and Random Stripe-shuffling for Person Re-identification. (Under review)
 
      
-4. Sipeng Zhang, Wei Jiang, Chi Zhang, **_Hao Luo_**, Hongyan Yu. An adversarial triplet loss constrained Generative Adversarial Network for person re-identification. (Under review on Computer Vision and Image Understanding)
+4. Sipeng Zhang*, _**Hao Luo**_*, Wei Jiang, Chi Zhang, Hongyan Yu. An adversarial triplet loss constrained Generative Adversarial Network for person re-identification. (Under review on Computer Vision and Image Understanding)
 
-5.  Zhenfeng Xue, Weijie Mao, Wei Jiang, **_Hao Luo_**. EHANet: Efficient Hybrid Attention Network towards real-time semantic segmentation. (Under review)
+5. Zhenfeng Xue, Weijie Mao, Wei Jiang, **_Hao Luo_**. EHANet: Efficient Hybrid Attention Network towards real-time semantic segmentation. (Under review)
 
-5. Xuan Zhang* , **_Hao Luo*_**, Xing Fan, et al. Alignedreid: Surpassing human-level performance in person re-identification[J]. arXiv preprint arXiv:1711.08184, 2017. 
-    **(* stands for equal first authors)** 
+5. Xuan Zhang* , _**Hao Luo**_*, Xing Fan, et al. Alignedreid: Surpassing human-level performance in person re-identification[J]. arXiv preprint arXiv:1711.08184, 2017. 
      
      [[pdf]](https://arxiv.org/pdf/1711.08184)
      [[code]](https://github.com/michuanhaohao/AlignedReID)
