@@ -73,22 +73,14 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
     [[pdf]](https://arxiv.org/abs/1903.07071)
     [[code]](https://github.com/michuanhaohao/reid-strong-baseline)
     <details>
-      <summary>[BibTeX]</summary>
-      <p> 
-        @InProceedings{Luo_2019_CVPR_Workshops,
-        
-            author = {Luo, Hao and Gu, Youzhi and Liao, Xingyu and Lai, Shenqi and Jiang, Wei},
-            
-            title = {Bag of Tricks and a Strong Baseline for Deep Person Re-Identification},
-            
-            booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
-            
-            month = {June},
-            
-            year = {2019}
-            
-        }
-      </p>
+      <summary>[BibTeX1]</summary>
+      <p>@InProceedings{Luo_2019_CVPR_Workshops,</p>
+      <p>author = {Luo, Hao and Gu, Youzhi and Liao, Xingyu and Lai, Shenqi and Jiang, Wei},</p>
+      <p>title = {Bag of Tricks and a Strong Baseline for Deep Person Re-Identification},</p>
+      <p>booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},</p>
+      <p>month = {June},</p>
+      <p>year = {2019}</p>
+      <p>}</p> 
     </details>
     
 2. Xing Fan, **_Hao Luo_**, Xuan Zhang, et al. SCPNet: Spatial-Channel Parallelism Network for Joint Holistic and Partial Person Re-Identification[C]//Asian Conference on Computer Vision. Springer, Cham, 2018.
