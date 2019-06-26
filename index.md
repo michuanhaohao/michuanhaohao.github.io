@@ -72,20 +72,6 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
     
     [[pdf]](https://arxiv.org/abs/1903.07071)
     [[code]](https://github.com/michuanhaohao/reid-strong-baseline)
-    <details>
-    <summary>[BibTeX]</summary>   
-    
-    `
-    @InProceedings{Luo_2019_CVPR_Workshops,
-    author = {Luo, Hao and Gu, Youzhi and Liao, Xingyu and Lai, Shenqi and Jiang, Wei},
-    title = {Bag of Tricks and a Strong Baseline for Deep Person Re-Identification},
-    booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
-    month = {June},
-    year = {2019}
-    }
-    `
-    </details>    
-    
 
     
 2. Xing Fan, **_Hao Luo_**, Xuan Zhang, et al. SCPNet: Spatial-Channel Parallelism Network for Joint Holistic and Partial Person Re-Identification[C]//Asian Conference on Computer Vision. Springer, Cham, 2018.
@@ -106,6 +92,7 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
 Partial Person Re-Identification. (Under review)
 
      [[pdf]](https://arxiv.org/abs/1903.07072)
+     
 2. Xing Fan, _**Hao Luo**_, Yaadhav Raaj, Haroon Idrees, Chi Zhang, Wei Jiang, Yaser Sheikh. Instance Hard Triplet Loss for both Cross-camera and In-video Person Re-identification. (Under review)
 
 3. Xing Fan, _**Hao Luo**_, Chi Zhang, Wei Jiang, Yaser Sheikh. Beyond Part-based Convolution: Multi-scale Pooling and Random Stripe-shuffling for Person Re-identification. (Under review)

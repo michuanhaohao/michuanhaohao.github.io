@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="53fa2543-2cb4-4d79-a431-1f323a228f48" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/index.md" afterPath="$PROJECT_DIR$/index.md" />
+      <change beforePath="$PROJECT_DIR$/talk.md" afterPath="$PROJECT_DIR$/talk.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,12 +14,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="236">
-                <caret line="78" column="4" lean-forward="false" selection-start-line="78" selection-start-column="4" selection-end-line="84" selection-end-column="5" />
+              <first_editor relative-caret-position="1772">
+                <caret line="94" column="5" lean-forward="false" selection-start-line="94" selection-start-column="5" selection-end-line="94" selection-end-column="5" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="talk.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/talk.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="240">
+                <caret line="10" column="185" lean-forward="false" selection-start-line="10" selection-start-column="185" selection-end-line="10" selection-end-column="185" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -47,6 +61,7 @@
         <option value="$PROJECT_DIR$/_site/index.html" />
         <option value="I:/ReID/reid-strong-baseline/README.md" />
         <option value="$PROJECT_DIR$/index.md" />
+        <option value="$PROJECT_DIR$/talk.md" />
       </list>
     </option>
   </component>
@@ -316,8 +331,19 @@
     <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="236">
-            <caret line="78" column="4" lean-forward="false" selection-start-line="78" selection-start-column="4" selection-end-line="84" selection-end-column="5" />
+          <first_editor relative-caret-position="1772">
+            <caret line="94" column="5" lean-forward="false" selection-start-line="94" selection-start-column="5" selection-end-line="94" selection-end-column="5" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/talk.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="240">
+            <caret line="10" column="185" lean-forward="false" selection-start-line="10" selection-start-column="185" selection-end-line="10" selection-end-column="185" />
             <folding />
           </first_editor>
           <second_editor />
