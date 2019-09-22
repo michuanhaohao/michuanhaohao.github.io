@@ -29,7 +29,6 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
 - I will make an oral presentation to the TRMTMCT2019 Workshop of CVPR2019.
     [[pdf]](https://arxiv.org/abs/1903.07071)
     [[code]](https://github.com/michuanhaohao/reid-strong-baseline)
-- I was invited to be a reviewer for ICCV2019!
 - SphereReID to appear at Computer Vision and Image Understanding.[[pdf]](https://arxiv.org/pdf/1807.00537)
 - SCPNet to appear at ACCV2018.[[pdf]](https://arxiv.org/pdf/1810.06996)
      [[code]](https://github.com/xfanplus/Open-SCPNet)
@@ -115,6 +114,11 @@ Partial Person Re-Identification. (Under review)
      [[pdf]](https://arxiv.org/pdf/1710.00478)
      [[code]](https://github.com/michuanhaohao/keras_reid)
      [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:qcCyyEwPnwMJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAW9wYK0vc8X3rC5JOoEV2ox2DydaOprHo&scisf=4&ct=citation&cd=-1&hl=zh-CN)
+
+
+## Academic Service
+
+PC/Reviewer: ICCV,CVPR,AAAI
 
 ## Experience
 
