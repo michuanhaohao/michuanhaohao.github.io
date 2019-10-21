@@ -95,6 +95,12 @@ Partial Person Re-Identification. (Under review)
 
      [[pdf]](https://arxiv.org/abs/1903.07072)
      
+2. Jingjing Qian, Wei Jiang, _**Hao Luo**_, Hongyan Yu. Stripe-based and Attribute-aware Network: A Two-Branch Deep Model for Vehicle Re-identification.
+
+     [[pdf]](https://arxiv.org/abs/1910.05549)
+
+2. Haonan Xie, Wei Jiang, _**Hao Luo**_, Hongyan Yu. Model Compression via Pruning and Knowledge Distillation for Person Re-identification.
+     
 3. Xing Fan, _**Hao Luo**_, Yaadhav Raaj, Haroon Idrees, Chi Zhang, Wei Jiang, Yaser Sheikh. Instance Hard Triplet Loss for both Cross-camera and In-video Person Re-identification. (Under review)
 
 4. Xing Fan, _**Hao Luo**_, Chi Zhang, Wei Jiang, Yaser Sheikh. Beyond Part-based Convolution: Multi-scale Pooling and Random Stripe-shuffling for Person Re-identification. (Under review)
@@ -127,16 +133,16 @@ PC/Reviewer: ICCV,CVPR,AAAI
 - **Research Intern**, _Face++ (Megvii)_, Apr 2017 ~ Oct 2017
 
 ## Awards and Honors
-
-- **Top100 Excellent Graduation Thesis**, Zhejiang University, 2015
-- **Outstanding Graduates**, Zhejiang Province, China, 2015
-- **Chunhui Award (Blue Ribbon)**,College of CSE, Zhejiang University, 2015
-- **Renai Award**,College of CSE, Zhejiang University, 2014
-- **Outstanding Student Leaders**, Zhejiang University, 2014,2013
-- **Zhongkong Award**,College of CSE, Zhejiang University, 2013
-- **Merit Student**,Zhejiang University 2014,2013
-- **Excellent Student Awards**, Zhejiang University, 2014,2013,2012
-- **First Prize in Advanced Mathematics Competition**, Zhejiang Province, China, 2012
+- **China National Scholarship**, P.R.China
+- **Top100 Excellent Graduation Thesis**, Zhejiang University
+- **Outstanding Graduates**, Zhejiang Province, China
+- **Chunhui Award (Blue Ribbon)**,College of CSE, Zhejiang University
+- **Renai Award**,College of CSE, Zhejiang University
+- **Outstanding Student Leaders**, Zhejiang University
+- **Zhongkong Award**,College of CSE, Zhejiang University
+- **Merit Student**,Zhejiang University
+- **Excellent Student Awards**, Zhejiang University
+- **First Prize in Advanced Mathematics Competition**, Zhejiang Province, China
 
 ## Leadership Activities
 
