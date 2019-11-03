@@ -9,7 +9,7 @@ layout: default
 I am currently a Ph.D. student under the supervision of Prof. [Wei Jiang](https://person.zju.edu.cn/jiangwei) at the Institute of Cyber-Systems and Control, College of Control Science and Engineering, Zhejiang University. 
 I received my bachelor degree from College of Control Science and Engineering, Zhejiang University in 2015. 
 
-I was a research intern of Megvii Inc. in 2017 year, and have been intern at 2012 Lab, Huawei Technologies Co. Ltd. since 2018.6.
+I was a research intern of Megvii Inc2012 Lab(2017), Huawei Technologies Co. Ltd.(2018), and Alibaba DAMO Academy(2019).
 
 I am the founder and president of the Student AI Association of Zhejiang University (ZJUAI).
 
@@ -26,9 +26,9 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
 - AlignedReID++ has been accepted by Pattern Recognition.  
     [[pdf]](https://www.sciencedirect.com/science/article/pii/S0031320319302031?via%3Dihub#!)
     [[code]](https://github.com/michuanhaohao/AlignedReID)
-- I will make an oral presentation to the TRMTMCT2019 Workshop of CVPR2019.[[pdf]](https://arxiv.org/abs/1903.07071)
+- I will make an oral presentation to the TRMTMCT2019 Workshop of CVPR2019.
+    [[pdf]](https://arxiv.org/abs/1903.07071)
     [[code]](https://github.com/michuanhaohao/reid-strong-baseline)
-- I was invited to be a reviewer for ICCV2019!
 - SphereReID to appear at Computer Vision and Image Understanding.[[pdf]](https://arxiv.org/pdf/1807.00537)
 - SCPNet to appear at ACCV2018.[[pdf]](https://arxiv.org/pdf/1810.06996)
      [[code]](https://github.com/xfanplus/Open-SCPNet)
@@ -69,61 +69,82 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
 
 ### Conference
 1. _**Hao Luo**_, Youzhi Gu, Xingyu Liao, Shenqi Lai, Wei Jiang. Bag of Tricks and A Strong Baseline for Deep Person Re-identification. (CVPR2019 Workshop, Oral)
-
+    
     [[pdf]](https://arxiv.org/abs/1903.07071)
     [[code]](https://github.com/michuanhaohao/reid-strong-baseline)
+    [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:RxqEUyutr40J:scholar.google.com/&output=citation&scisdr=CgXpnu4DEJnWxd22hAQ:AAGBfm0AAAAAXTqznAS01UoQH5zilYL9cMQ2aB6eaWFo&scisig=AAGBfm0AAAAAXTqznFJ-dkm9EDqP1nt8KgYSsYP2K0L0&scisf=4&ct=citation&cd=-1&hl=en)
+
     
 2. Xing Fan, **_Hao Luo_**, Xuan Zhang, et al. SCPNet: Spatial-Channel Parallelism Network for Joint Holistic and Partial Person Re-Identification[C]//Asian Conference on Computer Vision. Springer, Cham, 2018.
 
      [[pdf]](https://arxiv.org/pdf/1810.06996)
-     [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:AuhTpjNoWJAJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXJByNPbn0SWovIImmXSkRcs_CJZZ-Oem&scisf=4&ct=citation&cd=-1&hl=en)
+     [[code]](https://github.com/xfanplus/Open-SCPNet)
+     [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:AuhTpjNoWJAJ:scholar.google.com/&output=citation&scisdr=CgXpnu4DEJnWxd2xGVw:AAGBfm0AAAAAXTq0AVzst6xswfFkOA7kdpBNOLh__AeQ&scisig=AAGBfm0AAAAAXTq0AZMwXu4Y2xQEYylcGtkZ07yDR6RG&scisf=4&ct=citation&cd=-1&hl=en)
 
 ### Manuscript
+(* stands for equal first authors)
+
+1. _**Hao Luo**_, Wei Jiang, Youzhi Gu, Fuxu Liu, Xingyu Liao, Shenqi Lai, and Jianyang Gu. A Strong Baseline and Batch Normalization Neck for Deep Person Re-identification.
     
-1. _**Hao Luo**_, Xing Fan, Chi Zhang, Wei Jiang. STNReID: Deep Convolutional Networks with Spatial Transformer Networks for
+     [[pdf]](https://arxiv.org/pdf/1906.08332)
+     [[code]](https://github.com/michuanhaohao/reid-strong-baseline)
+     [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:B-LDmJ6HTu0J:scholar.google.com/&output=citation&scisdr=ChGhf2Co4AACVcsbg80AHVB5RpERwrDntmU:AAGBfm0AAAAAXRMxfjWI_Z7eVgjHWlfirmXHUEPo7bOw&scisig=AAGBfm0AAAAAXRMxfvP2DOZfDMOmFuoePaLP_ua3tPy7&scisf=4&ct=citation&cd=-1&hl=en)
+    
+2. _**Hao Luo**_, Xing Fan, Chi Zhang, Wei Jiang. STNReID: Deep Convolutional Networks with Spatial Transformer Networks for
 Partial Person Re-Identification. (Under review)
 
      [[pdf]](https://arxiv.org/abs/1903.07072)
-2. Xing Fan, _**Hao Luo**_, Yaadhav Raaj, Haroon Idrees, Chi Zhang, Wei Jiang, Yaser Sheikh. Instance Hard Triplet Loss for both Cross-camera and In-video Person Re-identification. (Under review)
-
-3. Xing Fan, _**Hao Luo**_, Chi Zhang, Wei Jiang, Yaser Sheikh. Beyond Part-based Convolution: Multi-scale Pooling and Random Stripe-shuffling for Person Re-identification. (Under review)
-
      
-4. Sipeng Zhang, Wei Jiang, Chi Zhang, **_Hao Luo_**, Hongyan Yu. An adversarial triplet loss constrained Generative Adversarial Network for person re-identification. (Under review on Computer Vision and Image Understanding)
+2. Jingjing Qian, Wei Jiang, _**Hao Luo**_, Hongyan Yu. Stripe-based and Attribute-aware Network: A Two-Branch Deep Model for Vehicle Re-identification.
 
-5.  Zhenfeng Xue, Weijie Mao, Wei Jiang, **_Hao Luo_**. EHANet: Efficient Hybrid Attention Network towards real-time semantic segmentation. (Under review)
+     [[pdf]](https://arxiv.org/abs/1910.05549)
 
-5. Xuan Zhang* , **_Hao Luo*_**, Xing Fan, et al. Alignedreid: Surpassing human-level performance in person re-identification[J]. arXiv preprint arXiv:1711.08184, 2017. 
-    **(* stands for equal first authors)** 
+2. Haonan Xie, Wei Jiang, _**Hao Luo**_, Hongyan Yu. Model Compression via Pruning and Knowledge Distillation for Person Re-identification.
+     
+3. Xing Fan, _**Hao Luo**_, Yaadhav Raaj, Haroon Idrees, Chi Zhang, Wei Jiang, Yaser Sheikh. Instance Hard Triplet Loss for both Cross-camera and In-video Person Re-identification. (Under review)
+
+4. Xing Fan, _**Hao Luo**_, Chi Zhang, Wei Jiang, Yaser Sheikh. Beyond Part-based Convolution: Multi-scale Pooling and Random Stripe-shuffling for Person Re-identification. (Under review)
+
+5. Sipeng Zhang* , _**Hao Luo**_*, Wei Jiang, Chi Zhang, Hongyan Yu. An adversarial triplet loss constrained Generative Adversarial Network for person re-identification. (Under review on Computer Vision and Image Understanding)
+
+6. Zhenfeng Xue, Weijie Mao, Wei Jiang, **_Hao Luo_**. EHANet: Efficient Hybrid Attention Network towards real-time semantic segmentation. (Under review)
+
+7. Xuan Zhang* , _**Hao Luo**_*, Xing Fan, et al. Alignedreid: Surpassing human-level performance in person re-identification[J]. arXiv preprint arXiv:1711.08184, 2017. 
      
      [[pdf]](https://arxiv.org/pdf/1711.08184)
      [[code]](https://github.com/michuanhaohao/AlignedReID)
      [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:XtSMP2EIsNwJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAW9wS6wWQgOfeC-eb7K_WyxYtKWA3R9Fb&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
-6. Qiqi Xiao, _**Hao Luo**_, Chi Zhang. Margin Sample Mining Loss: A Deep Learning Based Method for Person Re-identification[J]. arXiv preprint arXiv:1710.00478, 2017.
+8. Qiqi Xiao, _**Hao Luo**_, Chi Zhang. Margin Sample Mining Loss: A Deep Learning Based Method for Person Re-identification[J]. arXiv preprint arXiv:1710.00478, 2017.
 
      [[pdf]](https://arxiv.org/pdf/1710.00478)
      [[code]](https://github.com/michuanhaohao/keras_reid)
      [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:qcCyyEwPnwMJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAW9wYK0vc8X3rC5JOoEV2ox2DydaOprHo&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
+
+## Academic Service
+
+PC/Reviewer: ICCV,CVPR,AAAI
+
 ## Experience
 
-- **Intern**, _2012 Lab, Huawei Technologies Co. Ltd._, Jun 2018 ~ Nowadays
+- **Intern**, _Alibaba DAMO Academy_, Jun 2019 ~ Nowadays
+- **Intern**, _2012 Lab, Huawei Technologies Co. Ltd._, Jun 2018 ~ Jan 2019
 - **Research Intern**, _Face++ (Megvii)_, Apr 2017 ~ Oct 2017
 
 ## Awards and Honors
-
-- **Top100 Excellent Graduation Thesis**, Zhejiang University, 2015
-- **Outstanding Graduates**, Zhejiang Province, China, 2015
-- **Chunhui Award (Blue Ribbon)**,College of CSE, Zhejiang University, 2015
-- **Renai Award**,College of CSE, Zhejiang University, 2014
-- **Outstanding Student Leaders**, Zhejiang University, 2014,2013
-- **Zhongkong Award**,College of CSE, Zhejiang University, 2013
-- **Merit Student**,Zhejiang University 2014,2013
-- **Excellent Student Awards**, Zhejiang University, 2014,2013,2012
-- **First Prize in Advanced Mathematics Competition**, Zhejiang Province, China, 2012
+- **China National Scholarship**, P.R.China
+- **Top100 Excellent Graduation Thesis**, Zhejiang University
+- **Outstanding Graduates**, Zhejiang Province, China
+- **Chunhui Award (Blue Ribbon)**,College of CSE, Zhejiang University
+- **Renai Award**,College of CSE, Zhejiang University
+- **Outstanding Student Leaders**, Zhejiang University
+- **Zhongkong Award**,College of CSE, Zhejiang University
+- **Merit Student**,Zhejiang University
+- **Excellent Student Awards**, Zhejiang University
+- **First Prize in Advanced Mathematics Competition**, Zhejiang Province, China
 
 ## Leadership Activities
 
-- **Founder & President**, _Student AI Association of Zhejiang University_, Dec 2017 ~ Nowadays
+- **Founder & President**, _Student AI Association of Zhejiang University_, Dec 2017 ~ May 2019
 - **President**, _Student union of College of CSE, Zhejiang University_, July 2013 ~ Jun 2014
