@@ -1,6 +1,6 @@
 # Hao Luo
 
-### [My personal page](https://haoluo.site/)
+### [My personal page](https://luohao.site/)
 
 ## About Me
 
