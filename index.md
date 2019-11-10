@@ -17,8 +17,6 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
 
 ## Research Interest
 
-- **Person/Vehicle Re-identification**
-- Multi-target Multi-camera Tracking
 - Deep Learning 
 - Computer Vision
 
@@ -84,14 +82,14 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
 ### Manuscript
 (* stands for equal first authors)
 
-1. _**Hao Luo**_, Wei Jiang, Youzhi Gu, Fuxu Liu, Xingyu Liao, Shenqi Lai, and Jianyang Gu. A Strong Baseline and Batch Normalization Neck for Deep Person Re-identification.
+1. _**Hao Luo**_, Wei Jiang, Youzhi Gu, Fuxu Liu, Xingyu Liao, Shenqi Lai, and Jianyang Gu. A Strong Baseline and Batch Normalization Neck for Deep Person Re-identification. IEEE Transactions on Multimedia. (Major Revision)
     
      [[pdf]](https://arxiv.org/pdf/1906.08332)
      [[code]](https://github.com/michuanhaohao/reid-strong-baseline)
      [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:B-LDmJ6HTu0J:scholar.google.com/&output=citation&scisdr=ChGhf2Co4AACVcsbg80AHVB5RpERwrDntmU:AAGBfm0AAAAAXRMxfjWI_Z7eVgjHWlfirmXHUEPo7bOw&scisig=AAGBfm0AAAAAXRMxfvP2DOZfDMOmFuoePaLP_ua3tPy7&scisf=4&ct=citation&cd=-1&hl=en)
     
 2. _**Hao Luo**_, Xing Fan, Chi Zhang, Wei Jiang. STNReID: Deep Convolutional Networks with Spatial Transformer Networks for
-Partial Person Re-Identification. (Under review)
+Partial Person Re-Identification. IEEE Transactions on Multimedia. (Accepted with Mandatory Revisions)
 
      [[pdf]](https://arxiv.org/abs/1903.07072)
      
@@ -100,10 +98,12 @@ Partial Person Re-Identification. (Under review)
      [[pdf]](https://arxiv.org/abs/1910.05549)
 
 2. Haonan Xie, Wei Jiang, _**Hao Luo**_, Hongyan Yu. Model Compression via Pruning and Knowledge Distillation for Person Re-identification.
+
+3. Xing Fan, _**Hao Luo**_, Chi Zhang, Wei Jiang. Cross-Spectrum Dual-Subspace Pairing for RGB-infrared Cross-Modality Person Re-Identification. IEEE Transactions on Multimedia. (Major Revision)
      
 3. Xing Fan, _**Hao Luo**_, Yaadhav Raaj, Haroon Idrees, Chi Zhang, Wei Jiang, Yaser Sheikh. Instance Hard Triplet Loss for both Cross-camera and In-video Person Re-identification. (Under review)
 
-4. Xing Fan, _**Hao Luo**_, Chi Zhang, Wei Jiang, Yaser Sheikh. Beyond Part-based Convolution: Multi-scale Pooling and Random Stripe-shuffling for Person Re-identification. (Under review)
+4. Xing Fan, _**Hao Luo**_, Chi Zhang, Wei Jiang, Yaser Sheikh. Beyond Part-based Convolution: Multi-scale Pooling and Random Stripe-shuffling for Person Re-identification. Neurocomputing. (Under review)
 
 5. Sipeng Zhang* , _**Hao Luo**_*, Wei Jiang, Chi Zhang, Hongyan Yu. An adversarial triplet loss constrained Generative Adversarial Network for person re-identification. (Under review on Computer Vision and Image Understanding)
 
