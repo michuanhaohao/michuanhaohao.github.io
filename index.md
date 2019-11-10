@@ -17,6 +17,7 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
 
 ## Research Interest
 
+- **Person/Vehicle Re-identification**
 - Deep Learning 
 - Computer Vision
 
