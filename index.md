@@ -22,6 +22,9 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
 - Computer Vision
 
 ## News
+- Our Strong Baseline has been accepted by IEEE Transactions on Multimedia (TMM).  
+     [[pdf]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/TRMTMCT/Luo_Bag_of_Tricks_and_a_Strong_Baseline_for_Deep_Person_CVPRW_2019_paper.pdf)
+     [[code]](https://github.com/michuanhaohao/reid-strong-baseline)
 - AlignedReID++ has been accepted by Pattern Recognition.  
     [[pdf]](https://www.sciencedirect.com/science/article/pii/S0031320319302031?via%3Dihub#!)
     [[code]](https://github.com/michuanhaohao/AlignedReID)
@@ -42,6 +45,13 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
 
 
 ### Journal
+0. _**Hao Luo**_, Wei Jiang, Youzhi Gu, Fuxu Liu, Xingyu Liao, Shenqi Lai, and Jianyang Gu. A Strong Baseline and Batch Normalization Neck for Deep Person Re-identification. IEEE Transactions on Multimedia.
+    
+     [[pdf]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/TRMTMCT/Luo_Bag_of_Tricks_and_a_Strong_Baseline_for_Deep_Person_CVPRW_2019_paper.pdf)
+     [[code]](https://github.com/michuanhaohao/reid-strong-baseline)
+     [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:B-LDmJ6HTu0J:scholar.google.com/&output=citation&scisdr=ChGhf2Co4AACVcsbg80AHVB5RpERwrDntmU:AAGBfm0AAAAAXRMxfjWI_Z7eVgjHWlfirmXHUEPo7bOw&scisig=AAGBfm0AAAAAXRMxfvP2DOZfDMOmFuoePaLP_ua3tPy7&scisf=4&ct=citation&cd=-1&hl=en)
+  
+
 1. **_Hao Luo_**, Wei Jiang, Xuan Zhang, et al. AlignedReID++: Dynamically Matching Local Information for Person Re-Identification. (Pattern Recognition)
      
      [[pdf]](https://www.sciencedirect.com/science/article/pii/S0031320319302031?via%3Dihub#!)
@@ -83,13 +93,8 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
 ### Manuscript
 (* stands for equal first authors)
 
-1. _**Hao Luo**_, Wei Jiang, Youzhi Gu, Fuxu Liu, Xingyu Liao, Shenqi Lai, and Jianyang Gu. A Strong Baseline and Batch Normalization Neck for Deep Person Re-identification. IEEE Transactions on Multimedia. (Major Revision)
-    
-     [[pdf]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/TRMTMCT/Luo_Bag_of_Tricks_and_a_Strong_Baseline_for_Deep_Person_CVPRW_2019_paper.pdf)
-     [[code]](https://github.com/michuanhaohao/reid-strong-baseline)
-     [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:B-LDmJ6HTu0J:scholar.google.com/&output=citation&scisdr=ChGhf2Co4AACVcsbg80AHVB5RpERwrDntmU:AAGBfm0AAAAAXRMxfjWI_Z7eVgjHWlfirmXHUEPo7bOw&scisig=AAGBfm0AAAAAXRMxfvP2DOZfDMOmFuoePaLP_ua3tPy7&scisf=4&ct=citation&cd=-1&hl=en)
-    
-2. _**Hao Luo**_, Xing Fan, Chi Zhang, Wei Jiang. STNReID: Deep Convolutional Networks with Spatial Transformer Networks for
+  
+1. _**Hao Luo**_, Xing Fan, Chi Zhang, Wei Jiang. STNReID: Deep Convolutional Networks with Spatial Transformer Networks for
 Partial Person Re-Identification. IEEE Transactions on Multimedia. (Accepted with Mandatory Revisions)
 
      [[pdf]](https://arxiv.org/abs/1903.07072)
