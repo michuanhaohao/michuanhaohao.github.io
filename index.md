@@ -22,10 +22,13 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
 - Computer Vision
 
 ## News
+- STNReID has been accepted by IEEE Transactions on Multimedia (TMM).  
+    [[pdf]](https://arxiv.org/abs/1903.07072)
+
 - Our Strong Baseline has been accepted by IEEE Transactions on Multimedia (TMM).  
      [[pdf]](https://ieeexplore.ieee.org/document/8930088)
      [[code]](https://github.com/michuanhaohao/reid-strong-baseline)
-- AlignedReID++ has been accepted by Pattern Recognition.  
+- AlignedReID++ has been accepted by Pattern Recognition (PR).  
     [[pdf]](https://www.sciencedirect.com/science/article/pii/S0031320319302031?via%3Dihub#!)
     [[code]](https://github.com/michuanhaohao/AlignedReID)
 - I will make an oral presentation to the TRMTMCT2019 Workshop of CVPR2019.
@@ -55,6 +58,12 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
      [[pdf]](https://www.sciencedirect.com/science/article/pii/S0031320319302031?via%3Dihub#!)
      [[code]](https://github.com/michuanhaohao/AlignedReID)
      [[Bibtex]](https://www.sciencedirect.com/sdfe/arp/cite?pii=S0031320319302031&format=text%2Fx-bibtex&withabstract=true)
+
+1. _**Hao Luo**_, Xing Fan, Chi Zhang, Wei Jiang. STNReID: Deep Convolutional Networks with Spatial Transformer Networks for
+Partial Person Re-Identification. IEEE Transactions on Multimedia. 
+
+     [[pdf]](https://arxiv.org/abs/1903.07072)
+
 
 2. _**Hao Luo**_, Zhengping Luo, Chao Xu, Wei Jiang. Optical plasma boundary reconstruction based onleast squares for EAST Tokamak[J]. Frontiers of Information Technology & Electronic Engineering, 2018. DOI:10.1631/FITEE.1700041
 
@@ -91,10 +100,6 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
 ### Manuscript
 (* stands for equal first authors)
   
-1. _**Hao Luo**_, Xing Fan, Chi Zhang, Wei Jiang. STNReID: Deep Convolutional Networks with Spatial Transformer Networks for
-Partial Person Re-Identification. IEEE Transactions on Multimedia. (Accepted with Mandatory Revisions)
-
-     [[pdf]](https://arxiv.org/abs/1903.07072)
      
 2. Jingjing Qian, Wei Jiang, _**Hao Luo**_, Hongyan Yu. Stripe-based and Attribute-aware Network: A Two-Branch Deep Model for Vehicle Re-identification.
 
