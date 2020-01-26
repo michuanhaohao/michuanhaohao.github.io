@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData">
+  <component name="PublishConfigData" serverName="192.168.206.122">
     <serverData>
-      <paths name="haoluo@10.10.2.114:22">
+      <paths name="192.168.206.122">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/SaliencyRC" local="F:/kesci" web="/" />
           </mappings>
         </serverdata>
       </paths>

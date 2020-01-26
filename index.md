@@ -22,6 +22,7 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
 - Computer Vision
 
 ## News
+- We won the 3rd place (500,000 ¥) on NAIC Person ReID Challenge.
 - STNReID has been accepted by IEEE Transactions on Multimedia (TMM).  
     [[pdf]](https://arxiv.org/abs/1903.07072)
 
@@ -141,6 +142,7 @@ PC/Reviewer: ICCV,CVPR,ECCV,AAAI
 - **Research Intern**, _Face++ (Megvii)_, Apr 2017 ~ Oct 2017
 
 ## Awards and Honors
+- **Third Place (500,000¥ Bonus)**, Person ReID Challenge, NAIC
 - **China National Scholarship**, P.R.China
 - **HuaWei Scholarship**
 - **Top100 Excellent Graduation Thesis**, Zhejiang University
