@@ -9,7 +9,7 @@ layout: default
 I am currently a Ph.D. student under the supervision of Prof. [Wei Jiang](https://person.zju.edu.cn/jiangwei) at the Institute of Cyber-Systems and Control, College of Control Science and Engineering, Zhejiang University. 
 I received my bachelor degree from College of Control Science and Engineering, Zhejiang University in 2015. 
 
-I will soon get my doctor degree and join in Alibaba DAMO Academy to be a Senior Algorithm Engineer. We are hiring Algorithm Engineers (Full-time) and Research Interns in computer vision. (Please feel free to contact me!)
+I will soon get my doctor degree and join in Alibaba DAMO Academy. We are hiring Algorithm Engineers (Full-time) and Research Interns in computer vision. (Please feel free to contact me!)
 
 I was the founder and president of the Student AI Association of Zhejiang University (ZJUAI). Welcome to join the association to study AI with some friends.
 
@@ -22,12 +22,14 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
 - Computer Vision
 
 ## News
-- We won the 3rd place (500,000 ¥) on NAIC Person ReID Challenge.
+- We won the 3rd place (500,000¥ Bonus) on NAIC Person ReID Challenge.
 - STNReID has been accepted by IEEE Transactions on Multimedia (TMM).  
-    [[pdf]](https://arxiv.org/abs/1903.07072)
+    [[pdf]](https://ieeexplore.ieee.org/abstract/document/8955948)
+    [[arxiv]](https://arxiv.org/abs/1903.07072)
 
 - Our Strong Baseline has been accepted by IEEE Transactions on Multimedia (TMM).  
      [[pdf]](https://ieeexplore.ieee.org/document/8930088)
+     [[arxiv]](https://arxiv.org/pdf/1906.08332)
      [[code]](https://github.com/michuanhaohao/reid-strong-baseline)
 - AlignedReID++ has been accepted by Pattern Recognition (PR).  
     [[pdf]](https://www.sciencedirect.com/science/article/pii/S0031320319302031?via%3Dihub#!)
@@ -52,6 +54,7 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
 0. _**Hao Luo**_, Wei Jiang, Youzhi Gu, Fuxu Liu, Xingyu Liao, Shenqi Lai, and Jianyang Gu. A Strong Baseline and Batch Normalization Neck for Deep Person Re-identification. IEEE Transactions on Multimedia.
     
      [[pdf]](https://ieeexplore.ieee.org/document/8930088)
+     [[arxiv]](https://arxiv.org/pdf/1906.08332)
      [[code]](https://github.com/michuanhaohao/reid-strong-baseline)
 
 1. **_Hao Luo_**, Wei Jiang, Xuan Zhang, et al. AlignedReID++: Dynamically Matching Local Information for Person Re-Identification. (Pattern Recognition)
@@ -63,8 +66,8 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
 1. _**Hao Luo**_, Xing Fan, Chi Zhang, Wei Jiang. STNReID: Deep Convolutional Networks with Spatial Transformer Networks for
 Partial Person Re-Identification. IEEE Transactions on Multimedia. 
 
-     [[pdf]](https://arxiv.org/abs/1903.07072)
-
+    [[pdf]](https://ieeexplore.ieee.org/abstract/document/8955948)
+    [[arxiv]](https://arxiv.org/abs/1903.07072)
 
 2. _**Hao Luo**_, Zhengping Luo, Chao Xu, Wei Jiang. Optical plasma boundary reconstruction based onleast squares for EAST Tokamak[J]. Frontiers of Information Technology & Electronic Engineering, 2018. DOI:10.1631/FITEE.1700041
 
@@ -133,13 +136,8 @@ Partial Person Re-Identification. IEEE Transactions on Multimedia.
 
 ## Academic Service
 
-PC/Reviewer: ICCV,CVPR,ECCV,AAAI
-
-## Experience
-
-- **Intern**, _Alibaba DAMO Academy_, Jun 2019 ~ Nowadays
-- **Intern**, _2012 Lab, Huawei Technologies Co. Ltd._, Jun 2018 ~ Jan 2019
-- **Research Intern**, _Face++ (Megvii)_, Apr 2017 ~ Oct 2017
+Conference PC/Reviewer: ICCV,CVPR,ECCV,AAAI
+Journal Reviewer: TMM,Neurocomputing
 
 ## Awards and Honors
 - **Third Place (500,000¥ Bonus)**, Person ReID Challenge, NAIC
