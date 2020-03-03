@@ -137,6 +137,7 @@ Partial Person Re-Identification. IEEE Transactions on Multimedia.
 ## Academic Service
 
 Conference PC/Reviewer: ICCV,CVPR,ECCV,AAAI
+
 Journal Reviewer: TMM,Neurocomputing
 
 ## Awards and Honors
