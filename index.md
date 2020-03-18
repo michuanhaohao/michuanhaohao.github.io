@@ -83,7 +83,11 @@ Partial Person Re-Identification. IEEE Transactions on Multimedia.
      [[pdf]](https://www.sciencedirect.com/science/article/pii/S1047320319300100)
      [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:ewJ21m_l3V4J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXEBOQ8JRAajWxcV_0pMCEt1wCgLBSlvP&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
 
-5. Zaiqiang Wu, Wei Jiang,  _**Hao Luo**_, Lin Cheng. A Novel Self-intersection Penalty Term for Statistical Body Shape Models and Its Applications in 3D Pose Estimation. (Applied Science, 2019. DOI:10.3390/app9030400)
+5. Jingjing Qian, Wei Jiang, _**Hao Luo**_, Hongyan Yu. Stripe-based and Attribute-aware Network: A Two-Branch Deep Model for Vehicle Re-identification. Measurement Science and Technology.
+
+     [[pdf]](https://arxiv.org/abs/1910.05549)
+
+6. Zaiqiang Wu, Wei Jiang,  _**Hao Luo**_, Lin Cheng. A Novel Self-intersection Penalty Term for Statistical Body Shape Models and Its Applications in 3D Pose Estimation. (Applied Science, 2019. DOI:10.3390/app9030400)
     [[pdf]](https://www.mdpi.com/2076-3417/9/3/400/pdf)
     [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:x-txlqHp-RcJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXJBx6qcmwMcTUTMAhF7aZrTFmY6PuHeR&scisf=4&ct=citation&cd=-1&hl=en)
 
@@ -105,9 +109,7 @@ Partial Person Re-Identification. IEEE Transactions on Multimedia.
 (* stands for equal first authors)
   
      
-2. Jingjing Qian, Wei Jiang, _**Hao Luo**_, Hongyan Yu. Stripe-based and Attribute-aware Network: A Two-Branch Deep Model for Vehicle Re-identification.
 
-     [[pdf]](https://arxiv.org/abs/1910.05549)
 
 2. Haonan Xie, Wei Jiang, _**Hao Luo**_, Hongyan Yu. Model Compression via Pruning and Knowledge Distillation for Person Re-identification.
 
