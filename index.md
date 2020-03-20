@@ -91,6 +91,9 @@ Partial Person Re-Identification. IEEE Transactions on Multimedia.
     [[pdf]](https://www.mdpi.com/2076-3417/9/3/400/pdf)
     [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:x-txlqHp-RcJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXJBx6qcmwMcTUTMAhF7aZrTFmY6PuHeR&scisf=4&ct=citation&cd=-1&hl=en)
 
+7. Xing Fan, Wei Jiang, _**Hao Luo**_, Weijie Mao, Hongyan Yu. Instance Hard Triplet Loss for both Cross-camera and In-video Person Re-identification. Applied Science.
+
+
 ### Conference
 1. _**Hao Luo**_, Youzhi Gu, Xingyu Liao, Shenqi Lai, Wei Jiang. Bag of Tricks and A Strong Baseline for Deep Person Re-identification. (CVPR2019 Workshop, Oral)
     
@@ -115,8 +118,6 @@ Partial Person Re-Identification. IEEE Transactions on Multimedia.
 
 3. Xing Fan, _**Hao Luo**_, Chi Zhang, Wei Jiang. Cross-Spectrum Dual-Subspace Pairing for RGB-infrared Cross-Modality Person Re-Identification. IEEE Transactions on Multimedia. (Major Revision)
      
-3. Xing Fan, _**Hao Luo**_, Yaadhav Raaj, Haroon Idrees, Chi Zhang, Wei Jiang, Yaser Sheikh. Instance Hard Triplet Loss for both Cross-camera and In-video Person Re-identification. (Under review)
-
 4. Xing Fan, _**Hao Luo**_, Chi Zhang, Wei Jiang, Yaser Sheikh. Beyond Part-based Convolution: Multi-scale Pooling and Random Stripe-shuffling for Person Re-identification. Neurocomputing. (Under review)
 
 5. Sipeng Zhang* , _**Hao Luo**_*, Wei Jiang, Chi Zhang, Hongyan Yu. An adversarial triplet loss constrained Generative Adversarial Network for person re-identification. (Under review on Computer Vision and Image Understanding)
