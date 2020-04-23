@@ -11,6 +11,8 @@ I received my bachelor degree from College of Control Science and Engineering, Z
 
 I will soon get my doctor degree and join in Alibaba DAMO Academy. We are hiring Algorithm Engineers (Full-time) and Research Interns in computer vision. (Please feel free to contact me!)
 
+If you are applying for a PhD student in computer vision, you also can contact me. I will co-supervise PhD students with Prof. Wei Jiang in Zhejiang University.
+
 I was the founder and president of the Student AI Association of Zhejiang University (ZJUAI). Welcome to join the association to study AI with some friends.
 
 You can find my publications on [Google Scholar](https://scholar.google.com.hk/citations?user=7QvWnzMAAAAJ&hl=zh-CN) and my open source code on [GitHub](https://github.com/michuanhaohao).
@@ -22,15 +24,17 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
 - Computer Vision
 
 ## News
+- We won the 3rd place on AICity Challenge 2020, CVPR Workshop.
+    [[pdf]](https://arxiv.org/pdf/2004.10547.pdf)
+    [[code]](https://github.com/heshuting555/AICITY2020_DMT_VehicleReID)
 - We won the 3rd place (500,000¥ Bonus) on NAIC Person ReID Challenge.
+- Our Strong Baseline has been accepted by IEEE Transactions on Multimedia (TMM).  
+    [[pdf]](https://ieeexplore.ieee.org/document/8930088)
+    [[arxiv]](https://arxiv.org/pdf/1906.08332)
+    [[code]](https://github.com/michuanhaohao/reid-strong-baseline)
 - STNReID has been accepted by IEEE Transactions on Multimedia (TMM).  
     [[pdf]](https://ieeexplore.ieee.org/abstract/document/8955948)
-    [[arxiv]](https://arxiv.org/abs/1903.07072)
-
-- Our Strong Baseline has been accepted by IEEE Transactions on Multimedia (TMM).  
-     [[pdf]](https://ieeexplore.ieee.org/document/8930088)
-     [[arxiv]](https://arxiv.org/pdf/1906.08332)
-     [[code]](https://github.com/michuanhaohao/reid-strong-baseline)
+    [[arxiv]](https://arxiv.org/abs/1903.07072) 
 - AlignedReID++ has been accepted by Pattern Recognition (PR).  
     [[pdf]](https://www.sciencedirect.com/science/article/pii/S0031320319302031?via%3Dihub#!)
     [[code]](https://github.com/michuanhaohao/AlignedReID)
@@ -42,10 +46,7 @@ You can find my publications on [Google Scholar](https://scholar.google.com.hk/c
      [[code]](https://github.com/xfanplus/Open-SCPNet)
 - We have released the code of AlignedReID.[[pdf]](https://arxiv.org/pdf/1711.08184)
      [[code]](https://github.com/michuanhaohao/AlignedReID)
-- My paid online course "Deep Learning and Person Re-identification" is online.[[Chapter 1]](https://study.163.com/course/introduction/1006510030.htm)
-     [[Chapter 2]](https://study.163.com/course/introduction/1006510030.htm)
-- We have released the code of MSML.[[pdf]](https://arxiv.org/pdf/1710.00478)
-     [[code]](https://github.com/michuanhaohao/keras_reid)
+
 
 ## Publications
 
@@ -95,13 +96,17 @@ Partial Person Re-Identification. IEEE Transactions on Multimedia.
 
 
 ### Conference
+
 1. _**Hao Luo**_, Youzhi Gu, Xingyu Liao, Shenqi Lai, Wei Jiang. Bag of Tricks and A Strong Baseline for Deep Person Re-identification. (CVPR2019 Workshop, Oral)
     
-    [[pdf]](https://arxiv.org/abs/1903.07071)
+    [[pdf]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/TRMTMCT/Luo_Bag_of_Tricks_and_a_Strong_Baseline_for_Deep_Person_CVPRW_2019_paper.pdf)
     [[code]](https://github.com/michuanhaohao/reid-strong-baseline)
     [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:RxqEUyutr40J:scholar.google.com/&output=citation&scisdr=CgXpnu4DEJnWxd22hAQ:AAGBfm0AAAAAXTqznAS01UoQH5zilYL9cMQ2aB6eaWFo&scisig=AAGBfm0AAAAAXTqznFJ-dkm9EDqP1nt8KgYSsYP2K0L0&scisf=4&ct=citation&cd=-1&hl=en)
 
-    
+2. Shuting He, _**Hao Luo**_, Weihua Chen, et al. Multi-Domain Learning and Identity Mining for Vehicle Re-Identification
+    [[pdf]](https://arxiv.org/pdf/2004.10547.pdf)
+    [[code]](https://github.com/heshuting555/AICITY2020_DMT_VehicleReID)
+
 2. Xing Fan, **_Hao Luo_**, Xuan Zhang, et al. SCPNet: Spatial-Channel Parallelism Network for Joint Holistic and Partial Person Re-Identification[C]//Asian Conference on Computer Vision. Springer, Cham, 2018.
 
      [[pdf]](https://arxiv.org/pdf/1810.06996)
@@ -110,19 +115,13 @@ Partial Person Re-Identification. IEEE Transactions on Multimedia.
 
 ### Manuscript
 (* stands for equal first authors)
-  
-     
-
+      
 
 2. Haonan Xie, Wei Jiang, _**Hao Luo**_, Hongyan Yu. Model Compression via Pruning and Knowledge Distillation for Person Re-identification.
 
 3. Xing Fan, _**Hao Luo**_, Chi Zhang, Wei Jiang. Cross-Spectrum Dual-Subspace Pairing for RGB-infrared Cross-Modality Person Re-Identification. IEEE Transactions on Multimedia. (Major Revision)
      
 4. Xing Fan, _**Hao Luo**_, Chi Zhang, Wei Jiang, Yaser Sheikh. Beyond Part-based Convolution: Multi-scale Pooling and Random Stripe-shuffling for Person Re-identification. Neurocomputing. (Under review)
-
-5. Sipeng Zhang* , _**Hao Luo**_*, Wei Jiang, Chi Zhang, Hongyan Yu. An adversarial triplet loss constrained Generative Adversarial Network for person re-identification. (Under review on Computer Vision and Image Understanding)
-
-6. Zhenfeng Xue, Weijie Mao, Wei Jiang, **_Hao Luo_**. EHANet: Efficient Hybrid Attention Network towards real-time semantic segmentation. (Under review)
 
 7. Xuan Zhang* , _**Hao Luo**_*, Xing Fan, et al. Alignedreid: Surpassing human-level performance in person re-identification[J]. arXiv preprint arXiv:1711.08184, 2017. 
      
@@ -141,17 +140,15 @@ Partial Person Re-Identification. IEEE Transactions on Multimedia.
 
 Conference PC/Reviewer: ICCV,CVPR,ECCV,AAAI
 
-Journal Reviewer: TMM,Neurocomputing
+Journal Reviewer: TIP,TMM,Neurocomputing
 
 ## Awards and Honors
 - **Third Place (500,000¥ Bonus)**, Person ReID Challenge, NAIC
 - **China National Scholarship**, P.R.China
 - **HuaWei Scholarship**
-- **Top100 Excellent Graduation Thesis**, Zhejiang University
 - **Outstanding Graduates**, Zhejiang Province, China
 - **Chunhui Award (Blue Ribbon)**,College of CSE, Zhejiang University
 - **Outstanding Student Leaders**, Zhejiang University
-- **Zhongkong Award**,College of CSE, Zhejiang University
 - **Merit Student**,Zhejiang University
 - **Excellent Student Awards**, Zhejiang University
 - **First Prize in Advanced Mathematics Competition**, Zhejiang Province, China
