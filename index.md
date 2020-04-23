@@ -11,7 +11,7 @@ I received my bachelor degree from College of Control Science and Engineering, Z
 
 I will soon get my doctor degree and join in Alibaba DAMO Academy. We are hiring Algorithm Engineers (Full-time) and Research Interns in computer vision. (Please feel free to contact me!)
 
-If you are applying for a PhD student in computer vision, you also can contact me. I will co-supervise PhD students with Prof. Wei Jiang in Zhejiang University.
+If you are applying for a PhD student in computer vision, you also can contact me. I will co-supervise PhD students with Prof. Wei Jiang at Zhejiang University.
 
 I was the founder and president of the Student AI Association of Zhejiang University (ZJUAI). Welcome to join the association to study AI with some friends.
 
@@ -103,7 +103,7 @@ Partial Person Re-Identification. IEEE Transactions on Multimedia.
     [[code]](https://github.com/michuanhaohao/reid-strong-baseline)
     [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:RxqEUyutr40J:scholar.google.com/&output=citation&scisdr=CgXpnu4DEJnWxd22hAQ:AAGBfm0AAAAAXTqznAS01UoQH5zilYL9cMQ2aB6eaWFo&scisig=AAGBfm0AAAAAXTqznFJ-dkm9EDqP1nt8KgYSsYP2K0L0&scisf=4&ct=citation&cd=-1&hl=en)
 
-2. Shuting He, _**Hao Luo**_, Weihua Chen, et al. Multi-Domain Learning and Identity Mining for Vehicle Re-Identification
+2. Shuting He, _**Hao Luo**_, Weihua Chen, et al. Multi-Domain Learning and Identity Mining for Vehicle Re-Identification. CVPR2020 Workshop.
     [[pdf]](https://arxiv.org/pdf/2004.10547.pdf)
     [[code]](https://github.com/heshuting555/AICITY2020_DMT_VehicleReID)
 
