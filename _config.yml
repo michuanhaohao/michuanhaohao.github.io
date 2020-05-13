@@ -4,7 +4,7 @@ url: "https://luohao.site"
 
 markdown: kramdown
 
-tracking_id: #
+tracking_id: G-KC6ZFHG111
 
 footer: No
 footer_url: "https://github.com/michuanhaohao"
@@ -17,7 +17,10 @@ sass:
 nav:
  - name: "Homepage"
    link: "/"
+ - name: "Publication"
+   link: "pub"
  - name: "Talk"
    link: "talk"
  - name: "Contact"
    link: "contact"
+
