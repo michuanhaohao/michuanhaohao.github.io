@@ -3,8 +3,8 @@ url: "https://luohao.site"
 # baseurl: "/luohao"
 
 markdown: kramdown
-
-tracking_id: G-KC6ZFHG111
+#
+#tracking_id: G-KC6ZFHG111
 
 footer: No
 footer_url: "https://github.com/michuanhaohao"
