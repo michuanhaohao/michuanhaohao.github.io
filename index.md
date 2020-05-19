@@ -6,16 +6,14 @@ layout: default
 
 <img class="profile-picture" src="./imgs/photo.jpg">
 
-I am currently a Ph.D. student under the supervision of Prof. [Wei Jiang](https://person.zju.edu.cn/jiangwei) at the Institute of Cyber-Systems and Control, College of Control Science and Engineering, Zhejiang University. 
+- I was born in Nanchang, China on 1994. I am currently a Ph.D. student under the supervision of Prof. [Wei Jiang](https://person.zju.edu.cn/jiangwei) at the Institute of Cyber-Systems and Control, College of Control Science and Engineering, Zhejiang University. 
 I received my bachelor degree from College of Control Science and Engineering, Zhejiang University in 2015. 
 
-I will soon get my doctor degree and join in Alibaba DAMO Academy. We are hiring Algorithm Engineers (Full-time) and Research Interns in computer vision. (Please feel free to contact me!)
+- I will soon get my doctor degree and join in Alibaba DAMO Academy. We are hiring Algorithm Engineers (Full-time) and Research Interns in computer vision. (Please feel free to contact me!)
 
-If you are applying for a PhD student in computer vision, you also can contact me. I will co-supervise PhD students with Prof. Wei Jiang at Zhejiang University.
+- If you are applying for a PhD student in computer vision, you also can contact me. I will co-supervise PhD students with Prof. Wei Jiang at Zhejiang University.
 
-I was the founder and president of the Student AI Association of Zhejiang University (ZJUAI). Welcome to join the association to study AI with some friends.
-
-You can find my publications on [Google Scholar](https://scholar.google.com.hk/citations?user=7QvWnzMAAAAJ&hl=zh-CN) and my open source code on [GitHub](https://github.com/michuanhaohao).
+- You can find my publications on [Google Scholar](https://scholar.google.com.hk/citations?user=7QvWnzMAAAAJ&hl=zh-CN) and my open source code on [GitHub](https://github.com/michuanhaohao).
 
 ## Research Interest
 
