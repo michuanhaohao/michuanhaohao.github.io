@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="./imgs/photo.jpg">
 
-- I was born in Nanchang, China on 1994. I am currently a Ph.D. student under the supervision of Prof. [Wei Jiang](https://person.zju.edu.cn/jiangwei) at the Institute of Cyber-Systems and Control, College of Control Science and Engineering, Zhejiang University. 
+- I was born in Nanchang, China in 1994. I am currently a Ph.D. student under the supervision of Prof. [Wei Jiang](https://person.zju.edu.cn/jiangwei) at the Institute of Cyber-Systems and Control, College of Control Science and Engineering, Zhejiang University. 
 I received my bachelor degree from College of Control Science and Engineering, Zhejiang University in 2015. 
 
 - I will soon get my doctor degree and join in Alibaba DAMO Academy. We are hiring Algorithm Engineers (Full-time) and Research Interns in computer vision. (Please feel free to contact me!)
