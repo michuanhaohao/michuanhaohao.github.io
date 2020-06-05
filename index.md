@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Dr. Hao Luo
+## About Me
 
 <img class="profile-picture" src="./imgs/photo.jpg">
 
