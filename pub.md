@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-(* stands for the corresponding author or adviser)
+(* stands for the corresponding author or mentor)
 
 ### Journal
 0. _**Hao Luo**_, Wei Jiang, Youzhi Gu, Fuxu Liu, Xingyu Liao, Shenqi Lai, and Jianyang Gu. A Strong Baseline and Batch Normalization Neck for Deep Person Re-identification. IEEE Transactions on Multimedia.
