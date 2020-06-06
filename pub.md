@@ -3,6 +3,8 @@ layout: default
 is_contact: true
 ---
 
+(* stands for the corresponding author or adviser)
+
 ### Journal
 0. _**Hao Luo**_, Wei Jiang, Youzhi Gu, Fuxu Liu, Xingyu Liao, Shenqi Lai, and Jianyang Gu. A Strong Baseline and Batch Normalization Neck for Deep Person Re-identification. IEEE Transactions on Multimedia.
     
@@ -36,7 +38,7 @@ Partial Person Re-Identification. IEEE Transactions on Multimedia.
      [[pdf]](https://www.sciencedirect.com/science/article/pii/S1047320319300100)
      [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:ewJ21m_l3V4J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXEBOQ8JRAajWxcV_0pMCEt1wCgLBSlvP&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
 
-5. Jingjing Qian, Wei Jiang, _**Hao Luo**_, Hongyan Yu. Stripe-based and Attribute-aware Network: A Two-Branch Deep Model for Vehicle Re-identification. Measurement Science and Technology.
+5. Jingjing Qian, Wei Jiang, _**Hao Luo**_*, Hongyan Yu. Stripe-based and Attribute-aware Network: A Two-Branch Deep Model for Vehicle Re-identification. Measurement Science and Technology.
 
      [[pdf]](https://arxiv.org/abs/1910.05549)
 
@@ -55,7 +57,7 @@ Partial Person Re-Identification. IEEE Transactions on Multimedia.
     [[code]](https://github.com/michuanhaohao/reid-strong-baseline)
     [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:RxqEUyutr40J:scholar.google.com/&output=citation&scisdr=CgXpnu4DEJnWxd22hAQ:AAGBfm0AAAAAXTqznAS01UoQH5zilYL9cMQ2aB6eaWFo&scisig=AAGBfm0AAAAAXTqznFJ-dkm9EDqP1nt8KgYSsYP2K0L0&scisf=4&ct=citation&cd=-1&hl=en)
 
-2. Shuting He, _**Hao Luo**_, Weihua Chen, et al. Multi-Domain Learning and Identity Mining for Vehicle Re-Identification. CVPR2020 Workshop.
+2. Shuting He, _**Hao Luo**_*, Weihua Chen, et al. Multi-Domain Learning and Identity Mining for Vehicle Re-Identification. CVPR2020 Workshop.
     [[pdf]](https://arxiv.org/pdf/2004.10547.pdf)
     [[code]](https://github.com/heshuting555/AICITY2020_DMT_VehicleReID)
 
@@ -66,22 +68,20 @@ Partial Person Re-Identification. IEEE Transactions on Multimedia.
      [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:AuhTpjNoWJAJ:scholar.google.com/&output=citation&scisdr=CgXpnu4DEJnWxd2xGVw:AAGBfm0AAAAAXTq0AVzst6xswfFkOA7kdpBNOLh__AeQ&scisig=AAGBfm0AAAAAXTq0AZMwXu4Y2xQEYylcGtkZ07yDR6RG&scisf=4&ct=citation&cd=-1&hl=en)
 
 ### Manuscript
-(* stands for equal first authors)
-      
 
-2. Haonan Xie, Wei Jiang, _**Hao Luo**_, Hongyan Yu. Model Compression via Pruning and Knowledge Distillation for Person Re-identification.
+2. Haonan Xie, Wei Jiang, _**Hao Luo**_*, Hongyan Yu. Model Compression via Pruning and Knowledge Distillation for Person Re-identification.
 
 3. Xing Fan, _**Hao Luo**_, Chi Zhang, Wei Jiang. Cross-Spectrum Dual-Subspace Pairing for RGB-infrared Cross-Modality Person Re-Identification. IEEE Transactions on Multimedia. (Major Revision)
      
 4. Xing Fan, _**Hao Luo**_, Chi Zhang, Wei Jiang, Yaser Sheikh. Beyond Part-based Convolution: Multi-scale Pooling and Random Stripe-shuffling for Person Re-identification. Neurocomputing. (Under review)
 
-7. Xuan Zhang* , _**Hao Luo**_*, Xing Fan, et al. Alignedreid: Surpassing human-level performance in person re-identification[J]. arXiv preprint arXiv:1711.08184, 2017. 
+5. Xuan Zhang , _**Hao Luo**_(Equal first authors), Xing Fan, et al. Alignedreid: Surpassing human-level performance in person re-identification[J]. arXiv preprint arXiv:1711.08184, 2017. 
      
      [[pdf]](https://arxiv.org/pdf/1711.08184)
      [[code]](https://github.com/michuanhaohao/AlignedReID)
      [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:XtSMP2EIsNwJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAW9wS6wWQgOfeC-eb7K_WyxYtKWA3R9Fb&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
-8. Qiqi Xiao, _**Hao Luo**_, Chi Zhang. Margin Sample Mining Loss: A Deep Learning Based Method for Person Re-identification[J]. arXiv preprint arXiv:1710.00478, 2017.
+6. Qiqi Xiao, _**Hao Luo**_, Chi Zhang. Margin Sample Mining Loss: A Deep Learning Based Method for Person Re-identification[J]. arXiv preprint arXiv:1710.00478, 2017.
 
      [[pdf]](https://arxiv.org/pdf/1710.00478)
      [[code]](https://github.com/michuanhaohao/keras_reid)
