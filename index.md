@@ -23,7 +23,7 @@ layout: default
 - We won the 3rd place on AICity Challenge 2020, CVPR Workshop.
     [[pdf]](https://arxiv.org/pdf/2004.10547.pdf)
     [[code]](https://github.com/heshuting555/AICITY2020_DMT_VehicleReID)
-- We won the 3rd place (500,000¥ Bonus) on NAIC Person ReID Challenge.
+- We won the 3rd place (500,000¥ Bonus) on NAIC Person ReID Challenge. [[code]](https://github.com/heshuting555/NAIC_Person_ReID_DMT)
 - Our Strong Baseline has been accepted by IEEE Transactions on Multimedia (TMM).  
     [[pdf]](https://ieeexplore.ieee.org/document/8930088)
     [[arxiv]](https://arxiv.org/pdf/1906.08332)
