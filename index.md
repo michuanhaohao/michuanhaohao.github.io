@@ -20,10 +20,11 @@ layout: default
 - Computer Vision
 
 ## News
-- We won the 3rd place on AICity Challenge 2020, CVPR Workshop.
+- We won the 1st place in [2020 iQIYI iCartoonFace Challenge, IJCAI-PRICAI 2020 Grand Challenge](http://challenge.ai.iqiyi.com/detail?raceId=5def71b4e9fcf68aef76a75e).
+- We won the 3rd place in AICity Challenge 2020, CVPR Workshop.
     [[pdf]](https://arxiv.org/pdf/2004.10547.pdf)
     [[code]](https://github.com/heshuting555/AICITY2020_DMT_VehicleReID)
-- We won the 3rd place (500,000¥ Bonus) on NAIC Person ReID Challenge. [[code]](https://github.com/heshuting555/NAIC_Person_ReID_DMT)
+- We won the 3rd place (500,000¥ Bonus) in NAIC Person ReID Challenge. [[code]](https://github.com/heshuting555/NAIC_Person_ReID_DMT)
 - Our Strong Baseline has been accepted by IEEE Transactions on Multimedia (TMM).  
     [[pdf]](https://ieeexplore.ieee.org/document/8930088)
     [[arxiv]](https://arxiv.org/pdf/1906.08332)
@@ -51,6 +52,8 @@ Conference PC/Reviewer: ICCV,CVPR,ECCV,AAAI
 Journal Reviewer: TIP,TMM,Neurocomputing
 
 ## Awards and Honors
+- **First Place**, 2020 iQIYI iCartoonFace Challenge, IJCAI-PRICAI 2020
+- **Third Place**, AICity Challenge 2020, CVPR2020 Workshops
 - **Third Place (500,000¥ Bonus)**, Person ReID Challenge, NAIC
 - **China National Scholarship**, P.R.China
 - **HuaWei Scholarship**
