@@ -52,6 +52,8 @@ Partial Person Re-Identification. IEEE Transactions on Multimedia.
 
 10. Xing Fan, Wei Jiang, _**Hao Luo**_, Weijie Mao, Hongyan Yu. Instance Hard Triplet Loss for both Cross-camera and In-video Person Re-identification. Applied Science.
 
+11. Haonan Xie, Wei Jiang, _**Hao Luo**_*, Hongyan Yu. Model Compression via Pruning and Knowledge Distillation for Person Re-identification. Journal of Ambient Intelligence and Humanized Computing.
+    [[pdf]](https://link.springer.com/article/10.1007/s12652-020-02312-4)
 
 ### Conference
 
@@ -73,9 +75,7 @@ Partial Person Re-Identification. IEEE Transactions on Multimedia.
 
 ### Manuscript
 
-2. Haonan Xie, Wei Jiang, _**Hao Luo**_*, Hongyan Yu. Model Compression via Pruning and Knowledge Distillation for Person Re-identification. (Accept)
-
-3. Xing Fan, _**Hao Luo**_, Chi Zhang, Wei Jiang. Cross-Spectrum Dual-Subspace Pairing for RGB-infrared Cross-Modality Person Re-Identification. IEEE Transactions on Multimedia. (Accept)
+3. Xing Fan, _**Hao Luo**_, Chi Zhang, Wei Jiang. Cross-Spectrum Dual-Subspace Pairing for RGB-infrared Cross-Modality Person Re-Identification.
      
 4. Xing Fan, _**Hao Luo**_, Chi Zhang, Wei Jiang, Yaser Sheikh. Beyond Part-based Convolution: Multi-scale Pooling and Random Stripe-shuffling for Person Re-identification. Neurocomputing.
 
