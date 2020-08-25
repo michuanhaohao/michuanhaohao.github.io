@@ -20,6 +20,8 @@ layout: default
 - Computer Vision
 
 ## News
+- We won the 1st place in [ECCV VISDA2020 Challenge](http://ai.bu.edu/visda-2020/).
+    [[code]](https://github.com/vimar-gu/Bias-Eliminate-DA-ReID)
 - We won the 1st place in [2020 iQIYI iCartoonFace Challenge, IJCAI-PRICAI 2020 Grand Challenge](http://challenge.ai.iqiyi.com/detail?raceId=5def71b4e9fcf68aef76a75e).
 - We won the 3rd place in AICity Challenge 2020, CVPR Workshop.
     [[pdf]](https://arxiv.org/pdf/2004.10547.pdf)
@@ -49,7 +51,7 @@ layout: default
 
 Conference PC/Reviewer: ICCV,CVPR,ECCV,AAAI
 
-Journal Reviewer: TIP,TMM,Neurocomputing
+Journal Reviewer: TIP,TMM,Neurocomputing,NEUNET
 
 ## Awards and Honors
 - **First Place**, 2020 iQIYI iCartoonFace Challenge, IJCAI-PRICAI 2020
