@@ -22,11 +22,13 @@ layout: default
 ## News
 - We won the 1st place in [ECCV VISDA2020 Challenge](http://ai.bu.edu/visda-2020/).
     [[code]](https://github.com/vimar-gu/Bias-Eliminate-DA-ReID)
+	[[pdf]](https://arxiv.org/pdf/2012.13498.pdf)
 - We won the 1st place in [2020 iQIYI iCartoonFace Challenge, IJCAI-PRICAI 2020 Grand Challenge](http://challenge.ai.iqiyi.com/detail?raceId=5def71b4e9fcf68aef76a75e).
 - We won the 3rd place in AICity Challenge 2020, CVPR Workshop.
     [[pdf]](https://arxiv.org/pdf/2004.10547.pdf)
     [[code]](https://github.com/heshuting555/AICITY2020_DMT_VehicleReID)
-- We won the 3rd place (500,000¥ Bonus) in NAIC Person ReID Challenge. [[code]](https://github.com/heshuting555/NAIC_Person_ReID_DMT)
+- We won the 2nd price (300,000¥ Bonus) again in NAIC2020 ReID Challenge. 
+- We won the 2nd price (500,000¥ Bonus) in NAIC2019 ReID Challenge. [[code]](https://github.com/heshuting555/NAIC_Person_ReID_DMT)
 - Our Strong Baseline has been accepted by IEEE Transactions on Multimedia (TMM).  
     [[pdf]](https://ieeexplore.ieee.org/document/8930088)
     [[arxiv]](https://arxiv.org/pdf/1906.08332)
@@ -49,14 +51,16 @@ layout: default
 
 ## Academic Service
 
-Conference PC/Reviewer: ICCV,CVPR,ECCV,AAAI
+Conference PC/Reviewer: ICCV,CVPR,ECCV,AAAI,ICME
 
 Journal Reviewer: TIP,TMM,Neurocomputing,NEUNET
 
 ## Awards and Honors
+- **First Place**, VISDA2020 Challenge, ECCV22020
 - **First Place**, 2020 iQIYI iCartoonFace Challenge, IJCAI-PRICAI 2020
 - **Third Place**, AICity Challenge 2020, CVPR2020 Workshops
-- **Third Place (500,000¥ Bonus)**, Person ReID Challenge, NAIC
+- **Second Price (300,000¥ Bonus)**, ReID Challenge, NAIC2020
+- **Second Price (500,000¥ Bonus)**, ReID Challenge, NAIC2019
 - **China National Scholarship**, P.R.China
 - **HuaWei Scholarship**
 - **Outstanding Graduates**, Zhejiang Province, China

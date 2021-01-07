@@ -30,8 +30,9 @@ Partial Person Re-Identification. IEEE Transactions on Multimedia.
      [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:I6aH4PLqpYkJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXEq393n84npYEyG4FrgGcA6imHWHPB7B&scisf=4&ct=citation&cd=-1&hl=en)
 5. **_Hao Luo_**, Wei Jiang, Xing Fan, Sipeng Zhang. A Survey on Deep Learning Based Person Re-Identification[J]. ACTA AUTOMATICA SINICA, 2018. DOI: 10.16383/j.aas.2018.c180154
    
-   (罗浩,姜伟,范星,张思朋. 基于深度学习的行人重识别研究进展. 自动化学报, 2018. DOI: 10.16383/j.aas.2018.c180154)
-   [[pdf]](http://www.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=cjfdtotal&filename=MOTO20190121007&uid=WEEvREcwSlJHSldRa1FhcEE0QVRCZ2VvUjJsTFh6b1NpN21hVHEzNFhOcz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MzAwODBLQ0xmWWJHNEg5ak1ybzFFWk9zSVkzZ3h5aFlTNkVsMVFIdmpyaFkxQ01EN1I3cWVidVp1RkN6bFY3N0JJMWc9)
+	(罗浩,姜伟,范星,张思朋. 基于深度学习的行人重识别研究进展. 自动化学报, 2018. DOI: 10.16383/j.aas.2018.c180154)
+	 
+	 [[pdf]](http://www.aas.net.cn/article/doi/10.16383/j.aas.c180154)
    
 6. Xing Fan, Wei Jiang, _**Hao Luo**_, et al. SphereReID: Deep Hypersphere Manifold Embedding for Person Re-Identification. Journal of Visual Communication and Image Representation (2019).
      
@@ -52,7 +53,9 @@ Partial Person Re-Identification. IEEE Transactions on Multimedia.
 
 10. Xing Fan, Wei Jiang, _**Hao Luo**_, Weijie Mao, Hongyan Yu. Instance Hard Triplet Loss for both Cross-camera and In-video Person Re-identification. Applied Science.
 
-11. Haonan Xie, Wei Jiang, _**Hao Luo**_*, Hongyan Yu. Model Compression via Pruning and Knowledge Distillation for Person Re-identification. Journal of Ambient Intelligence and Humanized Computing.
+11. Xing Fan, Wei Jiang, _**Hao Luo**_, Weijie Mao. Modality-transfer generative adversarial network and dual-level unified latent representation for visible thermal Person re-identification. The Visual Computer.
+
+12. Haonan Xie, Wei Jiang, _**Hao Luo**_*, Hongyan Yu. Model Compression via Pruning and Knowledge Distillation for Person Re-identification. Journal of Ambient Intelligence and Humanized Computing.
     [[pdf]](https://link.springer.com/article/10.1007/s12652-020-02312-4)
 
 ### Conference
@@ -67,7 +70,10 @@ Partial Person Re-Identification. IEEE Transactions on Multimedia.
     [[pdf]](https://arxiv.org/pdf/2004.10547.pdf)
     [[code]](https://github.com/heshuting555/AICITY2020_DMT_VehicleReID)
 
-3. Xing Fan, **_Hao Luo_**, Xuan Zhang, et al. SCPNet: Spatial-Channel Parallelism Network for Joint Holistic and Partial Person Re-Identification[C]//Asian Conference on Computer Vision. Springer, Cham, 2018.
+3. Jianyang Gu, _**Hao Luo**_*, Weihua Chen, et al. 1st Place Solution to VisDA-2020: Bias Elimination for Domain Adaptive Pedestrian Re-identification. ECCV2020 Workshops.
+	[[pdf]](https://arxiv.org/pdf/2012.13498.pdf)
+
+4. Xing Fan, **_Hao Luo_**, Xuan Zhang, et al. SCPNet: Spatial-Channel Parallelism Network for Joint Holistic and Partial Person Re-Identification[C]//Asian Conference on Computer Vision. Springer, Cham, 2018.
 
      [[pdf]](https://arxiv.org/pdf/1810.06996)
      [[code]](https://github.com/xfanplus/Open-SCPNet)
