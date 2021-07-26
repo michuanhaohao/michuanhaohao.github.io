@@ -59,6 +59,11 @@ Partial Person Re-Identification. IEEE Transactions on Multimedia.
     [[pdf]](https://link.springer.com/article/10.1007/s12652-020-02312-4)
 
 ### Conference
+1. Shuting He,  _**Hao Luo**_*, Pichao Wang, Fan Wang, Hao Li, Wei Jiang. Transreid: Transformer-based object re-identification. ICCV2021.
+
+2. _**Hao Luo**_, Weihua Chen, Xianzhe Xu, et al. An empirical study of vehicle re-identification on the AI City Challenge. CVPR2021 Workshop.
+
+3. Chong Liu, Yuqi Zhang,  _**Hao Luo**_, et al. City-scale multi-camera vehicle tracking guided by crossroad zones. CVPR2021 Workshop.
 
 1. _**Hao Luo**_, Youzhi Gu, Xingyu Liao, Shenqi Lai, Wei Jiang. Bag of Tricks and A Strong Baseline for Deep Person Re-identification. (CVPR2019 Workshop, Oral)
     
