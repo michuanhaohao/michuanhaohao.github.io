@@ -20,6 +20,12 @@ layout: default
 - Computer Vision
 
 ## News
+- TransReID has been accepted by ICCV2021.
+    [[code]](https://github.com/heshuting555/TransReID)
+	[[pdf]](https://arxiv.org/abs/2102.04378)
+- We won the 1st place in Track2 and Track3 in the 5th AICITY Challenge, CVPR2021.
+    [[code]](https://github.com/michuanhaohao/AICITY2021_Track2_DMT)
+	[[pdf]](https://openaccess.thecvf.com/content/CVPR2021W/AICity/papers/Luo_An_Empirical_Study_of_Vehicle_Re-Identification_on_the_AI_City_CVPRW_2021_paper.pdf)
 - We won the 1st place in [ECCV VISDA2020 Challenge](http://ai.bu.edu/visda-2020/).
     [[code]](https://github.com/vimar-gu/Bias-Eliminate-DA-ReID)
 	[[pdf]](https://arxiv.org/pdf/2012.13498.pdf)
@@ -51,12 +57,13 @@ layout: default
 
 ## Academic Service
 
-Conference PC/Reviewer: ICCV,CVPR,ECCV,AAAI,ICME
+Conference PC/Reviewer: ICCV,CVPR,ECCV,AAAI,ICME,ICLR
 
 Journal Reviewer: TIP,TMM,Neurocomputing,NEUNET
 
 ## Awards and Honors
-- **First Place**, VISDA2020 Challenge, ECCV22020
+- **First Place**, AICITY Challenge, CVPR2021
+- **First Place**, VISDA2020 Challenge, ECCV2020
 - **First Place**, 2020 iQIYI iCartoonFace Challenge, IJCAI-PRICAI 2020
 - **Third Place**, AICity Challenge 2020, CVPR2020 Workshops
 - **Second Price (300,000¥ Bonus)**, ReID Challenge, NAIC2020
