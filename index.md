@@ -20,9 +20,10 @@ layout: default
 - Computer Vision
 
 ## News
+- One paper was accepted by AAAI2021. [[pdf]](https://arxiv.org/pdf/2109.03810)
 - TransReID has been accepted by ICCV2021.
-    [[code]](https://github.com/heshuting555/TransReID)
-	[[pdf]](https://arxiv.org/abs/2102.04378)
+    [[code]](https://github.com/damo-cv/TransReID)
+    [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/He_TransReID_Transformer-Based_Object_Re-Identification_ICCV_2021_paper.pdf)
 - We won the 1st place in Track2 and Track3 in the 5th AICITY Challenge, CVPR2021.
     [[code]](https://github.com/michuanhaohao/AICITY2021_Track2_DMT)
 	[[pdf]](https://openaccess.thecvf.com/content/CVPR2021W/AICity/papers/Luo_An_Empirical_Study_of_Vehicle_Re-Identification_on_the_AI_City_CVPRW_2021_paper.pdf)

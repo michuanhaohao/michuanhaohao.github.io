@@ -4,8 +4,23 @@ is_contact: true
 ---
 
 (* stands for the corresponding author or mentor)
+1. **_Hao Luo_**, Pichao Wang, Yi Xu, et al. Self-Supervised Pre-Training for Transformer-Based Person Re-Identification. 
+     [[pdf]](https://arxiv.org/pdf/2111.12084)
+     [[code]](https://github.com/michuanhaohao/TransReID-SSL)
 
-### Journal
+0. Shuting He, _**Hao Luo**_*, Pichao Wang, et al. Transreid: Transformer-based object re-identification. ICCV2021.
+    [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/He_TransReID_Transformer-Based_Object_Re-Identification_ICCV_2021_paper.pdf)
+    [[code]](https://github.com/damo-cv/TransReID)
+
+1. Pichao Wang, Xue Wang, _**Hao Luo**_, et al. Scaled relu matters for training vision transformers.
+    [[pdf]](https://arxiv.org/pdf/2109.03810)
+
+2. _**Hao Luo**_, Youzhi Gu, Xingyu Liao, Shenqi Lai, Wei Jiang. Bag of Tricks and A Strong Baseline for Deep Person Re-identification. (CVPR2019 Workshop, Oral)
+    
+    [[pdf]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/TRMTMCT/Luo_Bag_of_Tricks_and_a_Strong_Baseline_for_Deep_Person_CVPRW_2019_paper.pdf)
+    [[code]](https://github.com/michuanhaohao/reid-strong-baseline)
+    [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:RxqEUyutr40J:scholar.google.com/&output=citation&scisdr=CgXpnu4DEJnWxd22hAQ:AAGBfm0AAAAAXTqznAS01UoQH5zilYL9cMQ2aB6eaWFo&scisig=AAGBfm0AAAAAXTqznFJ-dkm9EDqP1nt8KgYSsYP2K0L0&scisf=4&ct=citation&cd=-1&hl=en)
+
 1. _**Hao Luo**_, Wei Jiang, Youzhi Gu, Fuxu Liu, Xingyu Liao, Shenqi Lai, and Jianyang Gu. A Strong Baseline and Batch Normalization Neck for Deep Person Re-identification. IEEE Transactions on Multimedia.
     
      [[pdf]](https://ieeexplore.ieee.org/document/8930088)
@@ -30,7 +45,7 @@ Partial Person Re-Identification. IEEE Transactions on Multimedia.
      [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:I6aH4PLqpYkJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXEq393n84npYEyG4FrgGcA6imHWHPB7B&scisf=4&ct=citation&cd=-1&hl=en)
 5. **_Hao Luo_**, Wei Jiang, Xing Fan, Sipeng Zhang. A Survey on Deep Learning Based Person Re-Identification[J]. ACTA AUTOMATICA SINICA, 2018. DOI: 10.16383/j.aas.2018.c180154
    
-	(罗浩,姜伟,范星,张思朋. 基于深度学习的行人重识别研究进展. 自动化学报, 2018. DOI: 10.16383/j.aas.2018.c180154)
+	(罗浩,姜伟,范星,张思朋. 基于深度学习的行人重识别研究进展. 自动化学�? 2018. DOI: 10.16383/j.aas.2018.c180154)
 	 
 	 [[pdf]](http://www.aas.net.cn/article/doi/10.16383/j.aas.c180154)
    
@@ -58,33 +73,18 @@ Partial Person Re-Identification. IEEE Transactions on Multimedia.
 12. Haonan Xie, Wei Jiang, _**Hao Luo**_*, Hongyan Yu. Model Compression via Pruning and Knowledge Distillation for Person Re-identification. Journal of Ambient Intelligence and Humanized Computing.
     [[pdf]](https://link.springer.com/article/10.1007/s12652-020-02312-4)
 
-### Conference
-1. Shuting He,  _**Hao Luo**_*, Pichao Wang, Fan Wang, Hao Li, Wei Jiang. Transreid: Transformer-based object re-identification. ICCV2021.
-
-2. _**Hao Luo**_, Weihua Chen, Xianzhe Xu, et al. An empirical study of vehicle re-identification on the AI City Challenge. CVPR2021 Workshop.
-
-3. Chong Liu, Yuqi Zhang,  _**Hao Luo**_, et al. City-scale multi-camera vehicle tracking guided by crossroad zones. CVPR2021 Workshop.
-
-1. _**Hao Luo**_, Youzhi Gu, Xingyu Liao, Shenqi Lai, Wei Jiang. Bag of Tricks and A Strong Baseline for Deep Person Re-identification. (CVPR2019 Workshop, Oral)
-    
-    [[pdf]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/TRMTMCT/Luo_Bag_of_Tricks_and_a_Strong_Baseline_for_Deep_Person_CVPRW_2019_paper.pdf)
-    [[code]](https://github.com/michuanhaohao/reid-strong-baseline)
-    [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:RxqEUyutr40J:scholar.google.com/&output=citation&scisdr=CgXpnu4DEJnWxd22hAQ:AAGBfm0AAAAAXTqznAS01UoQH5zilYL9cMQ2aB6eaWFo&scisig=AAGBfm0AAAAAXTqznFJ-dkm9EDqP1nt8KgYSsYP2K0L0&scisf=4&ct=citation&cd=-1&hl=en)
-
-2. Shuting He, _**Hao Luo**_*, Weihua Chen, et al. Multi-Domain Learning and Identity Mining for Vehicle Re-Identification. CVPR2020 Workshop.
+3. Shuting He, _**Hao Luo**_*, Weihua Chen, et al. Multi-Domain Learning and Identity Mining for Vehicle Re-Identification. CVPR2020 Workshop.
     [[pdf]](https://arxiv.org/pdf/2004.10547.pdf)
     [[code]](https://github.com/heshuting555/AICITY2020_DMT_VehicleReID)
 
-3. Jianyang Gu, _**Hao Luo**_*, Weihua Chen, et al. 1st Place Solution to VisDA-2020: Bias Elimination for Domain Adaptive Pedestrian Re-identification. ECCV2020 Workshops.
+4. Jianyang Gu, _**Hao Luo**_*, Weihua Chen, et al. 1st Place Solution to VisDA-2020: Bias Elimination for Domain Adaptive Pedestrian Re-identification. ECCV2020 Workshops.
 	[[pdf]](https://arxiv.org/pdf/2012.13498.pdf)
 
-4. Xing Fan, **_Hao Luo_**, Xuan Zhang, et al. SCPNet: Spatial-Channel Parallelism Network for Joint Holistic and Partial Person Re-Identification[C]//Asian Conference on Computer Vision. Springer, Cham, 2018.
+5. Xing Fan, **_Hao Luo_**, Xuan Zhang, et al. SCPNet: Spatial-Channel Parallelism Network for Joint Holistic and Partial Person Re-Identification[C]//Asian Conference on Computer Vision. Springer, Cham, 2018.
 
      [[pdf]](https://arxiv.org/pdf/1810.06996)
      [[code]](https://github.com/xfanplus/Open-SCPNet)
      [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:AuhTpjNoWJAJ:scholar.google.com/&output=citation&scisdr=CgXpnu4DEJnWxd2xGVw:AAGBfm0AAAAAXTq0AVzst6xswfFkOA7kdpBNOLh__AeQ&scisig=AAGBfm0AAAAAXTq0AZMwXu4Y2xQEYylcGtkZ07yDR6RG&scisf=4&ct=citation&cd=-1&hl=en)
-
-### Manuscript
 
 3. Xing Fan, _**Hao Luo**_, Chi Zhang, Wei Jiang. Cross-Spectrum Dual-Subspace Pairing for RGB-infrared Cross-Modality Person Re-Identification.
      
