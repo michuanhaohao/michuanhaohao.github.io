@@ -43,10 +43,7 @@ Partial Person Re-Identification. IEEE Transactions on Multimedia.
 
      [[pdf]](https://link.springer.com/epdf/10.1631/FITEE.1700041?author_access_token=tlJSLoMbjXP3mRmcXS-0s7qs8EejajWv27JGSSdziJsKiCdueyoZkXakQrsMEbo4Oa3Crq_PDM8LQYwymjPSKKTSZVQeUgh_nIc9ADESazeFCgmY9BvUjeyVYkJG_zy7)
      [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:I6aH4PLqpYkJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXEq393n84npYEyG4FrgGcA6imHWHPB7B&scisf=4&ct=citation&cd=-1&hl=en)
-5. **_Hao Luo_**, Wei Jiang, Xing Fan, Sipeng Zhang. A Survey on Deep Learning Based Person Re-Identification[J]. ACTA AUTOMATICA SINICA, 2018. DOI: 10.16383/j.aas.2018.c180154
-   
-	(罗浩,姜伟,范星,张思朋. 基于深度学习的行人重识别研究进展. 自动化学�? 2018. DOI: 10.16383/j.aas.2018.c180154)
-	 
+5. **_Hao Luo_**, Wei Jiang, Xing Fan, Sipeng Zhang. A Survey on Deep Learning Based Person Re-Identification[J]. ACTA AUTOMATICA SINICA, 2018.
 	 [[pdf]](http://www.aas.net.cn/article/doi/10.16383/j.aas.c180154)
    
 6. Xing Fan, Wei Jiang, _**Hao Luo**_, et al. SphereReID: Deep Hypersphere Manifold Embedding for Person Re-Identification. Journal of Visual Communication and Image Representation (2019).
