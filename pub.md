@@ -3,16 +3,25 @@ layout: default
 is_contact: true
 ---
 
-(* stands for the corresponding author or mentor)
-1. **_Hao Luo_**, Pichao Wang, Yi Xu, et al. Self-Supervised Pre-Training for Transformer-Based Person Re-Identification. 
-     [[pdf]](https://arxiv.org/pdf/2111.12084)
-     [[code]](https://github.com/michuanhaohao/TransReID-SSL)
+(* stands for the corresponding author or project leader)
+
+0. Wen Qian, _**Hao Luo**_*, Silong Peng, et al. Unstructured Feature Decoupling for Vehicle Re-Identification. ECCV2022.
+
+0. Qiang Zhou, Chaohui Yu, _**Hao Luo**_, et al. MimCo: Masked Image Modeling Pre-training with Contrastive Teacher. ACMMM2022.
 
 0. Shuting He, _**Hao Luo**_*, Pichao Wang, et al. Transreid: Transformer-based object re-identification. ICCV2021.
     [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/He_TransReID_Transformer-Based_Object_Re-Identification_ICCV_2021_paper.pdf)
     [[code]](https://github.com/damo-cv/TransReID)
 
-1. Pichao Wang, Xue Wang, _**Hao Luo**_, et al. Scaled relu matters for training vision transformers.
+0. Jianyang Gu, Weihua Chen, _**Hao Luo**_, et al. Multi-View Evolutionary Training for Unsupervised Domain Adaptive Person Re-Identification[J]. IEEE Transactions on Information Forensics and Security, 2022, 17: 344-356.
+
+0. Xiao Pan, _**Hao Luo**_*, Jiang W*, et al. SFGN: Representing the sequence with one super frame for video person re-identification[J]. Knowledge-Based Systems, 2022, 249: 108884.
+
+1. **_Hao Luo_**, Pichao Wang, Yi Xu, et al. Self-Supervised Pre-Training for Transformer-Based Person Re-Identification. 
+     [[pdf]](https://arxiv.org/pdf/2111.12084)
+     [[code]](https://github.com/michuanhaohao/TransReID-SSL)
+
+1. Pichao Wang, Xue Wang, _**Hao Luo**_, et al. Scaled relu matters for training vision transformers.AAAI2022.
     [[pdf]](https://arxiv.org/pdf/2109.03810)
 
 2. _**Hao Luo**_, Youzhi Gu, Xingyu Liao, Shenqi Lai, Wei Jiang. Bag of Tricks and A Strong Baseline for Deep Person Re-identification. (CVPR2019 Workshop, Oral)

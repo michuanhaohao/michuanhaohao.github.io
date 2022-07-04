@@ -20,7 +20,8 @@ layout: default
 - Computer Vision
 
 ## News
-- One paper was accepted by AAAI2021. [[pdf]](https://arxiv.org/pdf/2109.03810)
+- There papers were accepted by ECCV2022/ACMMM2022/TIFS. 
+- One paper was accepted by AAAI2022. [[pdf]](https://arxiv.org/pdf/2109.03810)
 - TransReID has been accepted by ICCV2021.
     [[code]](https://github.com/damo-cv/TransReID)
     [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/He_TransReID_Transformer-Based_Object_Re-Identification_ICCV_2021_paper.pdf)
