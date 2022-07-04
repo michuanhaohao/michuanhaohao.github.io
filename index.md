@@ -15,7 +15,9 @@ layout: default
 
 ## Research Interest
 
-- **Person/Vehicle Re-identification**
+- Self-supervised learning
+- Vision Transformer
+- Person/Vehicle Re-identification
 - Deep Learning 
 - Computer Vision
 
