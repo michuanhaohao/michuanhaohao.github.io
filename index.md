@@ -22,9 +22,12 @@ layout: default
 - Computer Vision
 
 ## News
-- There papers were accepted by ECCV2022/ACMMM2022/TIFS. 
-- One paper was accepted by AAAI2022. [[pdf]](https://arxiv.org/pdf/2109.03810)
-- TransReID has been accepted by ICCV2021.
+- 02/2023. Two papers were accepted by CVPR 2023.
+- 11/2022. Two papers were accepted by AAAI2023.
+- 10/2022. One papers were accepted by NeurIPS 2022 (Spotlight).
+- 07/2022. There papers were accepted by ECCV2022/ACMMM2022/TIFS. 
+- 11/2021. One paper was accepted by AAAI2022.
+- 07/2021. TransReID has been accepted by ICCV2021.
     [[code]](https://github.com/damo-cv/TransReID)
     [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/He_TransReID_Transformer-Based_Object_Re-Identification_ICCV_2021_paper.pdf)
 - We won the 1st place in Track2 and Track3 in the 5th AICITY Challenge, CVPR2021.
@@ -34,29 +37,13 @@ layout: default
     [[code]](https://github.com/vimar-gu/Bias-Eliminate-DA-ReID)
 	[[pdf]](https://arxiv.org/pdf/2012.13498.pdf)
 - We won the 1st place in [2020 iQIYI iCartoonFace Challenge, IJCAI-PRICAI 2020 Grand Challenge](http://challenge.ai.iqiyi.com/detail?raceId=5def71b4e9fcf68aef76a75e).
-- We won the 3rd place in AICity Challenge 2020, CVPR Workshop.
-    [[pdf]](https://arxiv.org/pdf/2004.10547.pdf)
-    [[code]](https://github.com/heshuting555/AICITY2020_DMT_VehicleReID)
 - We won the 2nd price (300,000¥ Bonus) again in NAIC2020 ReID Challenge. 
 - We won the 2nd price (500,000¥ Bonus) in NAIC2019 ReID Challenge. [[code]](https://github.com/heshuting555/NAIC_Person_ReID_DMT)
-- Our Strong Baseline has been accepted by IEEE Transactions on Multimedia (TMM).  
+- Our Strong Baseline has been accepted by IEEE Transactions on Multimedia (TMM). 
+    [[Conference version]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/TRMTMCT/Luo_Bag_of_Tricks_and_a_Strong_Baseline_for_Deep_Person_CVPRW_2019_paper.pdf) 
     [[pdf]](https://ieeexplore.ieee.org/document/8930088)
     [[arxiv]](https://arxiv.org/pdf/1906.08332)
     [[code]](https://github.com/michuanhaohao/reid-strong-baseline)
-- STNReID has been accepted by IEEE Transactions on Multimedia (TMM).  
-    [[pdf]](https://ieeexplore.ieee.org/abstract/document/8955948)
-    [[arxiv]](https://arxiv.org/abs/1903.07072) 
-- AlignedReID++ has been accepted by Pattern Recognition (PR).  
-    [[pdf]](https://www.sciencedirect.com/science/article/pii/S0031320319302031?via%3Dihub#!)
-    [[code]](https://github.com/michuanhaohao/AlignedReID)
-- I will make an oral presentation to the TRMTMCT2019 Workshop of CVPR2019.
-    [[pdf]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/TRMTMCT/Luo_Bag_of_Tricks_and_a_Strong_Baseline_for_Deep_Person_CVPRW_2019_paper.pdf)
-    [[code]](https://github.com/michuanhaohao/reid-strong-baseline)
-- SphereReID to appear at Computer Vision and Image Understanding.[[pdf]](https://arxiv.org/pdf/1807.00537)
-- SCPNet to appear at ACCV2018.[[pdf]](https://arxiv.org/pdf/1810.06996)
-     [[code]](https://github.com/xfanplus/Open-SCPNet)
-- We have released the code of AlignedReID.[[pdf]](https://arxiv.org/pdf/1711.08184)
-     [[code]](https://github.com/michuanhaohao/AlignedReID)
 
 
 ## Academic Service
