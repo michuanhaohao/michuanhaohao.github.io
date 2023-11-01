@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="./imgs/photo.jpg">
 
-- I was born in Nanchang, China in 1994. I received my B.S. and Ph.D. degree from Zhejiang University, under the supervision of Prof. [Wei Jiang](https://person.zju.edu.cn/jiangwei), in 2015 and 2020, respectively. I am currently a research scientist in Vision Technology Lab, Alibaba DAMO Academy, leading both Image Synthesis Group and Remote Sensing Foundation Model Group. We developed the first AI-based remote sensing interpretation model [AIE-SEG](https://engine-aiearth.aliyun.com/#/).
+- I was born in Nanchang, China in 1994. I received my B.S. and Ph.D. degree from Zhejiang University, under the supervision of Prof. [Wei Jiang](https://person.zju.edu.cn/jiangwei), in 2015 and 2020, respectively. I am currently a research scientist in Vision Technology Lab, Alibaba DAMO Academy, leading both Image Synthesis Group and Remote Sensing Foundation Model Group. We developed the first foundation model [AIE-SEG](https://engine-aiearth.aliyun.com/#/) for AI-based remote sensing interpretation.
 
 - If you are applying for a Research Intern (Alibaba DAMO Academy) or a PhD student (supervised by  Prof. Wei Jiang at Zhejiang University) in computer vision, you also can contact me.
 
